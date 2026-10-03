@@ -1,5 +1,4 @@
-This repository is a part of a research paper that explores the relationship between populist governance, media capture, and physical
-violence against journalists in Europe. A model was build to analyse the relationship between populism and violence against jounralist by modelling physical violence in Europe using Zero-Inflated Negative Binomial (ZINB) regression.
+This repository is a part of a research paper that explores the relationship between populist governance, media capture, and physical violence against journalists in Europe. A model was build to analyse the relationship between populism and violence against jounralist by modelling physical violence in Europe using Zero-Inflated Negative Binomial (ZINB) regression.
 
 ## Paper executive summary
 This project explores the relationship between populist governance, media capture, and physical
@@ -22,6 +21,22 @@ Key Findings include:
 - Partial populist presence in government is sufficient to correlate with higher rates of physical violence against journalists.
 - Populism and government attacks on the judiciary pose a positive feedback loop with a compounding effect on journalist safety.
 - Adding gender composition of the cabinet and the attacked journalists does not improve the prediction.
+
+Weighted populism (model 2) is a positive and significant predictor (IRR = 1.51, 95% CI [1.15,
+1.96], p = .003), with model 2 being the most predictive model. Crucially, populism does not
+displace the structural predictors but adds to them: relative poverty remains the dominant single
+predictor and barely moves from the baseline (IRR = 3.34, p < .001, versus 3.27 in Model 1).
+The introduction of populism also reshapes the institutional coefficients. Government attacks on
+the judiciary, non-significant in the baseline (IRR = 1.23, p = .16), becomes significant here (IRR
+= 1.39, p = .024), a one-standard-deviation rise associated with roughly 39% more incidents.
+The two security and institutional controls fade once populism enters: military expenditure
+drops from marginal significance to clearly non-significant (IRR = 1.11, p = .43), as does high
+court independence (IRR = 0.84, p = .30). Populist governance is limitedly linked to physical
+violence against journalists in Europe, with weak predictive power and no significant relationship
+to media capture nor the gender of journalists nor government.
+Ultimately, incident reporting in countries with monitoring gaps can increase data-reporting and
+increased journalist protective initiatives should also pay heed to indirect physical harms, such as
+self-censorship and the chilling effect, to address conflict before it escalates into physical violence.
 
 ## Project Structure
 - **MODEL.ipynb** — main notebook: data cleaning, merging, EDA, and all models
