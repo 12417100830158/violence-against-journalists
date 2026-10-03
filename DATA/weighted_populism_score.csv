@@ -1,0 +1,1600 @@
+country_name,Year,party_name,party_id,seats,election_seats_total,parlgov_id,populist,farright,farleft,eurosceptic,weighted_populism
+Australia,2015,Australian Greens,751,1,150,,0,0,0,0,0.0
+Australia,2015,Australian Labor Party,1253,55,150,,0,0,0,0,0.0
+Australia,2015,Country Liberal Party,215,1,150,,0,0,0,0,0.0
+Australia,2015,Katter's Australian Party,2258,1,150,,0,0,0,0,0.0
+Australia,2015,Liberal National Party of Queensland,154,22,150,,0,0,0,0,0.0
+Australia,2015,Liberal Party of Australia,1411,58,150,,0,0,0,0,0.0
+Australia,2015,National (Country) Party | National Party of Australia,184,9,150,,0,0,0,0,0.0
+Australia,2015,Palmer United Australia Party,2259,1,150,,0,0,0,0,0.0
+Australia,2015,no party affiliation,1396,2,150,,0,0,0,0,0.0
+Australia,2016,Australian Greens,751,1,150,,0,0,0,0,0.0
+Australia,2016,Australian Labor Party,1253,69,150,,0,0,0,0,0.0
+Australia,2016,Katter's Australian Party,2258,1,150,,0,0,0,0,0.0
+Australia,2016,Liberal National Party of Queensland,154,21,150,,0,0,0,0,0.0
+Australia,2016,Liberal Party of Australia,1411,45,150,,0,0,0,0,0.0
+Australia,2016,National (Country) Party | National Party of Australia,184,10,150,,0,0,0,0,0.0
+Australia,2016,Nick Xenophon Team,2630,1,150,,0,0,0,0,0.0
+Australia,2016,no party affiliation,1396,2,150,,0,0,0,0,0.0
+Australia,2018,Australian Greens,751,1,150,,0,0,0,0,0.0
+Australia,2018,Australian Labor Party,1253,69,150,,0,0,0,0,0.0
+Australia,2018,Katter's Australian Party,2258,1,150,,0,0,0,0,0.0
+Australia,2018,Liberal National Party of Queensland,154,21,150,,0,0,0,0,0.0
+Australia,2018,Liberal Party of Australia,1411,45,150,,0,0,0,0,0.0
+Australia,2018,National (Country) Party | National Party of Australia,184,10,150,,0,0,0,0,0.0
+Australia,2018,Nick Xenophon Team,2630,1,150,,0,0,0,0,0.0
+Australia,2018,no party affiliation,1396,2,150,,0,0,0,0,0.0
+Australia,2019,Australian Greens,751,1,151,,0,0,0,0,0.0
+Australia,2019,Australian Labor Party,1253,68,151,,0,0,0,0,0.0
+Australia,2019,Katter's Australian Party,2258,1,151,,0,0,0,0,0.0
+Australia,2019,Liberal National Party of Queensland,154,23,151,,0,0,0,0,0.0
+Australia,2019,Liberal Party of Australia,1411,44,151,,0,0,0,0,0.0
+Australia,2019,National (Country) Party | National Party of Australia,184,10,151,,0,0,0,0,0.0
+Australia,2019,Nick Xenophon Team,2630,1,151,,0,0,0,0,0.0
+Australia,2019,no party affiliation,1396,3,151,,0,0,0,0,0.0
+Australia,2022,Australian Greens,751,4,151,,0,0,0,0,0.0
+Australia,2022,Australian Labor Party,1253,77,151,,0,0,0,0,0.0
+Australia,2022,Katter's Australian Party,2258,1,151,,0,0,0,0,0.0
+Australia,2022,Liberal National Party of Queensland,154,21,151,,0,0,0,0,0.0
+Australia,2022,Liberal Party of Australia,1411,27,151,,0,0,0,0,0.0
+Australia,2022,National (Country) Party | National Party of Australia,184,10,151,,0,0,0,0,0.0
+Australia,2022,Nick Xenophon Team,2630,1,151,,0,0,0,0,0.0
+Australia,2022,no party affiliation,1396,10,151,,0,0,0,0,0.0
+Austria,2016,Freiheitliche Partei Österreichs,50,40,183,50.0,1,1,0,1,0.2185792349726776
+Austria,2016,Die Grünen – Die Grüne Alternative,1429,24,183,,0,0,0,0,0.0
+Austria,2016,NEOS – Das Neue Österreich,2255,9,183,,0,0,0,0,0.0
+Austria,2016,Österreichische Volkspartei,1013,47,183,,0,0,0,0,0.0
+Austria,2016,Sozialdemokratische Partei Österreichs,973,52,183,,0,0,0,0,0.0
+Austria,2016,Team Stronach,2150,11,183,2150.0,1,0,0,1,0.060109289617486336
+Austria,2017,Freiheitliche Partei Österreichs,50,51,183,50.0,1,1,0,1,0.2786885245901639
+Austria,2017,NEOS – Das Neue Österreich,2255,10,183,,0,0,0,0,0.0
+Austria,2017,Österreichische Volkspartei,1013,62,183,,0,0,0,0,0.0
+Austria,2017,JETZT – Liste Pilz,2651,8,183,2651.0,1,0,0,0,0.04371584699453552
+Austria,2017,Sozialdemokratische Partei Österreichs,973,52,183,,0,0,0,0,0.0
+Austria,2019,Freiheitliche Partei Österreichs,50,51,183,50.0,1,1,0,1,0.2786885245901639
+Austria,2019,NEOS – Das Neue Österreich,2255,10,183,,0,0,0,0,0.0
+Austria,2019,Österreichische Volkspartei,1013,62,183,,0,0,0,0,0.0
+Austria,2019,JETZT – Liste Pilz,2651,8,183,2651.0,1,0,0,0,0.04371584699453552
+Austria,2019,Sozialdemokratische Partei Österreichs,973,52,183,,0,0,0,0,0.0
+Austria,2019,Parteilose,272,0,183,,0,0,0,0,0.0
+Austria,2019,Freiheitliche Partei Österreichs,50,31,183,50.0,1,1,0,1,0.16939890710382513
+Austria,2019,Die Grünen – Die Grüne Alternative,1429,26,183,,0,0,0,0,0.0
+Austria,2019,NEOS – Das Neue Österreich,2255,15,183,,0,0,0,0,0.0
+Austria,2019,Österreichische Volkspartei,1013,71,183,,0,0,0,0,0.0
+Austria,2019,Sozialdemokratische Partei Österreichs,973,40,183,,0,0,0,0,0.0
+Austria,2019,Parteilose,272,0,183,,0,0,0,0,0.0
+Austria,2020,Freiheitliche Partei Österreichs,50,31,183,50.0,1,1,0,1,0.16939890710382513
+Austria,2020,Die Grünen – Die Grüne Alternative,1429,26,183,,0,0,0,0,0.0
+Austria,2020,NEOS – Das Neue Österreich,2255,15,183,,0,0,0,0,0.0
+Austria,2020,Österreichische Volkspartei,1013,71,183,,0,0,0,0,0.0
+Austria,2020,Sozialdemokratische Partei Österreichs,973,40,183,,0,0,0,0,0.0
+Austria,2021,Freiheitliche Partei Österreichs,50,31,183,50.0,1,1,0,1,0.16939890710382513
+Austria,2021,Die Grünen – Die Grüne Alternative,1429,26,183,,0,0,0,0,0.0
+Austria,2021,NEOS – Das Neue Österreich,2255,15,183,,0,0,0,0,0.0
+Austria,2021,Österreichische Volkspartei,1013,71,183,,0,0,0,0,0.0
+Austria,2021,Sozialdemokratische Partei Österreichs,973,40,183,,0,0,0,0,0.0
+Austria,2021,Freiheitliche Partei Österreichs,50,31,183,50.0,1,1,0,1,0.16939890710382513
+Austria,2021,Die Grünen – Die Grüne Alternative,1429,26,183,,0,0,0,0,0.0
+Austria,2021,NEOS – Das Neue Österreich,2255,15,183,,0,0,0,0,0.0
+Austria,2021,Österreichische Volkspartei,1013,71,183,,0,0,0,0,0.0
+Austria,2021,Sozialdemokratische Partei Österreichs,973,40,183,,0,0,0,0,0.0
+Belgium,2018,Agalev – Groen,1594,6,150,,0,0,0,0,0.0
+Belgium,2018,Christelijke Volkspartij | Christen-Democratisch en Vlaams,723,18,150,,0,0,0,0,0.0
+Belgium,2018,Écologistes Confédérés pour l'organisation de luttes originales,161,6,150,,0,0,0,0,0.0
+Belgium,2018,Front Démocratique des Francophones | DéFI,969,2,150,,0,0,0,0,0.0
+Belgium,2018,Mouvement Réformateur,915,20,150,,0,0,0,0,0.0
+Belgium,2018,Nieuw-Vlaamse Alliantie,501,33,150,501.0,1,1,0,0,0.22
+Belgium,2018,Partij van de Arbeid – Parti du Travail de Belgique,256,2,150,256.0,0,0,1,1,0.0
+Belgium,2018,Parti Socialiste,1378,23,150,,0,0,0,0,0.0
+Belgium,2018,Parti Social Chrétien – Centre Democrate Humaniste,1192,9,150,,0,0,0,0,0.0
+Belgium,2018,Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten,1110,14,150,,0,0,0,0,0.0
+Belgium,2018,Parti populaire,438,1,150,438.0,1,1,0,1,0.006666666666666667
+Belgium,2018,Socialistische Partij,1029,13,150,,0,0,0,0,0.0
+Belgium,2018,Vlaams Blok | Vlaams Belang,993,3,150,993.0,1,1,0,1,0.02
+Belgium,2019,Agalev – Groen,1594,8,150,,0,0,0,0,0.0
+Belgium,2019,Christelijke Volkspartij | Christen-Democratisch en Vlaams,723,12,150,,0,0,0,0,0.0
+Belgium,2019,Écologistes Confédérés pour l'organisation de luttes originales,161,13,150,,0,0,0,0,0.0
+Belgium,2019,Front Démocratique des Francophones | DéFI,969,2,150,,0,0,0,0,0.0
+Belgium,2019,Mouvement Réformateur,915,14,150,,0,0,0,0,0.0
+Belgium,2019,Nieuw-Vlaamse Alliantie,501,25,150,501.0,1,1,0,0,0.16666666666666666
+Belgium,2019,Partij van de Arbeid – Parti du Travail de Belgique,256,12,150,256.0,0,0,1,1,0.0
+Belgium,2019,Parti Socialiste,1378,20,150,,0,0,0,0,0.0
+Belgium,2019,Parti Social Chrétien – Centre Democrate Humaniste,1192,5,150,,0,0,0,0,0.0
+Belgium,2019,Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten,1110,12,150,,0,0,0,0,0.0
+Belgium,2019,Socialistische Partij,1029,9,150,,0,0,0,0,0.0
+Belgium,2019,Vlaams Blok | Vlaams Belang,993,18,150,993.0,1,1,0,1,0.12
+Belgium,2019,Agalev – Groen,1594,8,150,,0,0,0,0,0.0
+Belgium,2019,Christelijke Volkspartij | Christen-Democratisch en Vlaams,723,12,150,,0,0,0,0,0.0
+Belgium,2019,Écologistes Confédérés pour l'organisation de luttes originales,161,13,150,,0,0,0,0,0.0
+Belgium,2019,Front Démocratique des Francophones | DéFI,969,2,150,,0,0,0,0,0.0
+Belgium,2019,Mouvement Réformateur,915,14,150,,0,0,0,0,0.0
+Belgium,2019,Nieuw-Vlaamse Alliantie,501,25,150,501.0,1,1,0,0,0.16666666666666666
+Belgium,2019,Partij van de Arbeid – Parti du Travail de Belgique,256,12,150,256.0,0,0,1,1,0.0
+Belgium,2019,Parti Socialiste,1378,20,150,,0,0,0,0,0.0
+Belgium,2019,Parti Social Chrétien – Centre Democrate Humaniste,1192,5,150,,0,0,0,0,0.0
+Belgium,2019,Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten,1110,12,150,,0,0,0,0,0.0
+Belgium,2019,Socialistische Partij,1029,9,150,,0,0,0,0,0.0
+Belgium,2019,Vlaams Blok | Vlaams Belang,993,18,150,993.0,1,1,0,1,0.12
+Belgium,2020,Agalev – Groen,1594,8,150,,0,0,0,0,0.0
+Belgium,2020,Christelijke Volkspartij | Christen-Democratisch en Vlaams,723,12,150,,0,0,0,0,0.0
+Belgium,2020,Écologistes Confédérés pour l'organisation de luttes originales,161,13,150,,0,0,0,0,0.0
+Belgium,2020,Front Démocratique des Francophones | DéFI,969,2,150,,0,0,0,0,0.0
+Belgium,2020,Mouvement Réformateur,915,14,150,,0,0,0,0,0.0
+Belgium,2020,Nieuw-Vlaamse Alliantie,501,25,150,501.0,1,1,0,0,0.16666666666666666
+Belgium,2020,Partij van de Arbeid – Parti du Travail de Belgique,256,12,150,256.0,0,0,1,1,0.0
+Belgium,2020,Parti Socialiste,1378,20,150,,0,0,0,0,0.0
+Belgium,2020,Parti Social Chrétien – Centre Democrate Humaniste,1192,5,150,,0,0,0,0,0.0
+Belgium,2020,Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten,1110,12,150,,0,0,0,0,0.0
+Belgium,2020,Socialistische Partij,1029,9,150,,0,0,0,0,0.0
+Belgium,2020,Vlaams Blok | Vlaams Belang,993,18,150,993.0,1,1,0,1,0.12
+Belgium,2020,Agalev – Groen,1594,8,150,,0,0,0,0,0.0
+Belgium,2020,Christelijke Volkspartij | Christen-Democratisch en Vlaams,723,12,150,,0,0,0,0,0.0
+Belgium,2020,Écologistes Confédérés pour l'organisation de luttes originales,161,13,150,,0,0,0,0,0.0
+Belgium,2020,Front Démocratique des Francophones | DéFI,969,2,150,,0,0,0,0,0.0
+Belgium,2020,Mouvement Réformateur,915,14,150,,0,0,0,0,0.0
+Belgium,2020,Nieuw-Vlaamse Alliantie,501,25,150,501.0,1,1,0,0,0.16666666666666666
+Belgium,2020,Partij van de Arbeid – Parti du Travail de Belgique,256,12,150,256.0,0,0,1,1,0.0
+Belgium,2020,Parti Socialiste,1378,20,150,,0,0,0,0,0.0
+Belgium,2020,Parti Social Chrétien – Centre Democrate Humaniste,1192,5,150,,0,0,0,0,0.0
+Belgium,2020,Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten,1110,12,150,,0,0,0,0,0.0
+Belgium,2020,Socialistische Partij,1029,9,150,,0,0,0,0,0.0
+Belgium,2020,Vlaams Blok | Vlaams Belang,993,18,150,993.0,1,1,0,1,0.12
+Bulgaria,2017,Alternativa za balgarsko vazrazhdane,2364,11,240,,0,0,0,0,0.0
+Bulgaria,2017,Ataka,535,11,240,535.0,1,1,0,1,0.04583333333333333
+Bulgaria,2017,Balgarija bes Zensura,2362,15,240,2362.0,1,1,0,1,0.0625
+Bulgaria,2017,Balgarska Sotsialisticheska Partiya,982,0,240,982.0,0,1,0,0,0.0
+Bulgaria,2017,Dvizhenie za Prava i Svobodi,1286,38,240,,0,0,0,0,0.0
+Bulgaria,2017,Grazhdani za Evropeysko Razvitie na Balgariya,1541,84,240,1541.0,1,0,0,0,0.35
+Bulgaria,2017,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,39,240,,0,0,0,0,0.0
+Bulgaria,2017,Natsionalen Front za Spasenie na Balgariya,2211,19,240,2211.0,1,1,0,1,0.07916666666666666
+Bulgaria,2017,Reformatorski Blok,2363,23,240,,0,0,0,0,0.0
+Bulgaria,2017,Suyuz na Demokratichnite Sili,423,0,240,,0,0,0,0,0.0
+Bulgaria,2017,no party affiliation,133,0,240,,0,0,0,0,0.0
+Bulgaria,2017,Dvizhenie za Prava i Svobodi,1286,26,240,,0,0,0,0,0.0
+Bulgaria,2017,Grazhdani za Evropeysko Razvitie na Balgariya,1541,95,240,1541.0,1,0,0,0,0.3958333333333333
+Bulgaria,2017,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,80,240,,0,0,0,0,0.0
+Bulgaria,2017,Natsionalen Front za Spasenie na Balgariya,2211,27,240,2211.0,1,1,0,1,0.1125
+Bulgaria,2017,Volya,2637,12,240,2637.0,1,1,0,1,0.05
+Bulgaria,2021,Dvizhenie za Prava i Svobodi,1286,30,240,,0,0,0,0,0.0
+Bulgaria,2021,Demokrati za Silna Balgariya | Demokratichna Balgariya,57,27,240,,0,0,0,0,0.0
+Bulgaria,2021,Grazhdani za Evropeysko Razvitie na Balgariya,1541,75,240,1541.0,1,0,0,0,0.3125
+Bulgaria,2021,Izpravi se!,2838,14,240,2838.0,1,0,0,0,0.058333333333333334
+Bulgaria,2021,Ima takav narod,2836,51,240,2836.0,1,0,0,0,0.2125
+Bulgaria,2021,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,43,240,,0,0,0,0,0.0
+Bulgaria,2021,no party affiliation,133,0,240,,0,0,0,0,0.0
+Bulgaria,2021,Dvizhenie za Prava i Svobodi,1286,29,240,,0,0,0,0,0.0
+Bulgaria,2021,Demokrati za Silna Balgariya | Demokratichna Balgariya,57,34,240,,0,0,0,0,0.0
+Bulgaria,2021,Grazhdani za Evropeysko Razvitie na Balgariya,1541,63,240,1541.0,1,0,0,0,0.2625
+Bulgaria,2021,Izpravi se!,2838,13,240,2838.0,1,0,0,0,0.05416666666666667
+Bulgaria,2021,Ima takav narod,2836,65,240,2836.0,1,0,0,0,0.2708333333333333
+Bulgaria,2021,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,36,240,,0,0,0,0,0.0
+Bulgaria,2021,no party affiliation,133,0,240,,0,0,0,0,0.0
+Bulgaria,2021,Dvizhenie za Prava i Svobodi,1286,34,240,,0,0,0,0,0.0
+Bulgaria,2021,Demokrati za Silna Balgariya | Demokratichna Balgariya,57,16,240,,0,0,0,0,0.0
+Bulgaria,2021,Grazhdani za Evropeysko Razvitie na Balgariya,1541,59,240,1541.0,1,0,0,0,0.24583333333333332
+Bulgaria,2021,Ima takav narod,2836,25,240,2836.0,1,0,0,0,0.10416666666666667
+Bulgaria,2021,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,26,240,,0,0,0,0,0.0
+Bulgaria,2021,Prodalzhavame promyanata,2847,67,240,,0,0,0,0,0.0
+Bulgaria,2021,Vazrazhdane,2640,13,240,2640.0,1,1,0,1,0.05416666666666667
+Bulgaria,2022,Dvizhenie za Prava i Svobodi,1286,34,240,,0,0,0,0,0.0
+Bulgaria,2022,Demokrati za Silna Balgariya | Demokratichna Balgariya,57,16,240,,0,0,0,0,0.0
+Bulgaria,2022,Grazhdani za Evropeysko Razvitie na Balgariya,1541,59,240,1541.0,1,0,0,0,0.24583333333333332
+Bulgaria,2022,Ima takav narod,2836,25,240,2836.0,1,0,0,0,0.10416666666666667
+Bulgaria,2022,Koalitsiya za Balgariya | Demokratichna Levitsa,1160,26,240,,0,0,0,0,0.0
+Bulgaria,2022,Prodalzhavame promyanata,2847,67,240,,0,0,0,0,0.0
+Bulgaria,2022,Vazrazhdane,2640,13,240,2640.0,1,1,0,1,0.05416666666666667
+Bulgaria,2022,no party affiliation,133,0,240,,0,0,0,0,0.0
+Bulgaria,2022,Balgarska Sotsialisticheska Partiya,982,25,240,982.0,0,1,0,0,0.0
+Bulgaria,2022,Balgarski vazhod,2871,12,240,,0,0,0,0,0.0
+Bulgaria,2022,Dvizhenie za Prava i Svobodi,1286,36,240,,0,0,0,0,0.0
+Bulgaria,2022,Da Bulgaria!,2638,20,240,,0,0,0,0,0.0
+Bulgaria,2022,Grazhdani za Evropeysko Razvitie na Balgariya,1541,67,240,1541.0,1,0,0,0,0.2791666666666667
+Bulgaria,2022,Prodalzhavame promyanata,2847,53,240,,0,0,0,0,0.0
+Bulgaria,2022,Vazrazhdane,2640,27,240,2640.0,1,1,0,1,0.1125
+Bulgaria,2022,no party affiliation,133,0,240,,0,0,0,0,0.0
+Bulgaria,2023,Balgarska Sotsialisticheska Partiya,982,23,240,982.0,0,1,0,0,0.0
+Bulgaria,2023,Dvizhenie za Prava i Svobodi,1286,36,240,,0,0,0,0,0.0
+Bulgaria,2023,Grazhdani za Evropeysko Razvitie na Balgariya,1541,69,240,1541.0,1,0,0,0,0.2875
+Bulgaria,2023,Ima takav narod,2836,11,240,2836.0,1,0,0,0,0.04583333333333333
+Bulgaria,2023,Prodalzhavame promyanata,2847,64,240,,0,0,0,0,0.0
+Bulgaria,2023,Vazrazhdane,2640,37,240,2640.0,1,1,0,1,0.15416666666666667
+Canada,2015,Bloc Québécois,448,10,338,,0,0,0,0,0.0
+Canada,2015,Co-operative Commonwealth Federation | New Democratic Party,296,44,338,,0,0,0,0,0.0
+Canada,2015,Conservative Party of Canada,1255,99,338,,0,0,0,0,0.0
+Canada,2015,Green Party of Canada,1259,1,338,,0,0,0,0,0.0
+Canada,2015,Liberal Party of Canada,368,184,338,,0,0,0,0,0.0
+Canada,2019,Bloc Québécois,448,32,338,,0,0,0,0,0.0
+Canada,2019,Co-operative Commonwealth Federation | New Democratic Party,296,24,338,,0,0,0,0,0.0
+Canada,2019,Conservative Party of Canada,1255,121,338,,0,0,0,0,0.0
+Canada,2019,Green Party of Canada,1259,3,338,,0,0,0,0,0.0
+Canada,2019,Liberal Party of Canada,368,157,338,,0,0,0,0,0.0
+Canada,2019,no party affiliation,1189,1,338,,0,0,0,0,0.0
+Canada,2021,Bloc Québécois,448,32,338,,0,0,0,0,0.0
+Canada,2021,Co-operative Commonwealth Federation | New Democratic Party,296,25,338,,0,0,0,0,0.0
+Canada,2021,Conservative Party of Canada,1255,119,338,,0,0,0,0,0.0
+Canada,2021,Green Party of Canada,1259,2,338,,0,0,0,0,0.0
+Canada,2021,Liberal Party of Canada,368,160,338,,0,0,0,0,0.0
+Switzerland,2015,Bürgerlich–Demokratische Partei (BDP) Graubünden,1213,7,200,,0,0,0,0,0.0
+Switzerland,2015,Evangelische Volkspartei der Schweiz – Parti Populaire Evangelique Suisse,602,2,200,,0,0,0,0,0.0
+Switzerland,2015,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,26,33,200,,0,0,0,0,0.0
+Switzerland,2015,Grünliberale Partei der Schweiz – Parti Vert-Libéral,308,7,200,,0,0,0,0,0.0
+Switzerland,2015,Grüne – Écologiste,141,11,200,,0,0,0,0,0.0
+Switzerland,2015,Katholische Konservative / Christlichdemokratische Volkspartei – Conservateurs catholiques  /  Parti démocrate-chrétien,531,27,200,,0,0,0,0,0.0
+Switzerland,2015,Lega dei Ticinesi,1500,2,200,1500.0,1,1,0,1,0.01
+Switzerland,2015,Mouvement Citoyens Genevois,2599,1,200,2599.0,1,1,0,1,0.005
+Switzerland,2015,Partei der Arbeit der Schweiz,1167,1,200,1167.0,0,0,1,1,0.0
+Switzerland,2015,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse,35,43,200,,0,0,0,0,0.0
+Switzerland,2015,Schweizerische Volkspartei – Union Démocratique du Centre,750,65,200,750.0,1,1,0,1,0.325
+Switzerland,2015,others,2579,1,200,,0,0,0,0,0.0
+Switzerland,2019,Bürgerlich–Demokratische Partei (BDP) Graubünden,1213,3,200,,0,0,0,0,0.0
+Switzerland,2019,Eidgenössisch-Demokratische Union – Union Démocratique Fédérale,1318,1,200,1318.0,0,1,0,1,0.0
+Switzerland,2019,Evangelische Volkspartei der Schweiz – Parti Populaire Evangelique Suisse,602,3,200,,0,0,0,0,0.0
+Switzerland,2019,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,26,29,200,,0,0,0,0,0.0
+Switzerland,2019,Grünliberale Partei der Schweiz – Parti Vert-Libéral,308,16,200,,0,0,0,0,0.0
+Switzerland,2019,Grüne – Écologiste,141,28,200,,0,0,0,0,0.0
+Switzerland,2019,Katholische Konservative / Christlichdemokratische Volkspartei – Conservateurs catholiques  /  Parti démocrate-chrétien,531,25,200,,0,0,0,0,0.0
+Switzerland,2019,Lega dei Ticinesi,1500,1,200,1500.0,1,1,0,1,0.005
+Switzerland,2019,Partei der Arbeit der Schweiz,1167,1,200,1167.0,0,0,1,1,0.0
+Switzerland,2019,solidaritéS,1226,1,200,1226.0,0,0,1,1,0.0
+Switzerland,2019,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse,35,39,200,,0,0,0,0,0.0
+Switzerland,2019,Schweizerische Volkspartei – Union Démocratique du Centre,750,53,200,750.0,1,1,0,1,0.265
+Cyprus,2016,Anorthotikó Kómma Ergazómenou Laoú,572,16,56,572.0,1,0,1,1,0.2857142857142857
+Cyprus,2016,Dimokratikó Kómma,851,9,56,,0,0,0,0,0.0
+Cyprus,2016,Dimokratikós Sinayermós,1575,18,56,,0,0,0,0,0.0
+Cyprus,2016,Kinima Sosialdimokraton EDEK,945,3,56,,0,0,0,0,0.0
+Cyprus,2016,Evropaiko Komma,491,0,56,491.0,1,1,0,0,0.0
+Cyprus,2016,Ethniko Laiko Metopo,1768,2,56,1768.0,1,1,0,1,0.03571428571428571
+Cyprus,2016,Kinima Allileggiis,2626,3,56,2626.0,1,1,0,0,0.05357142857142857
+Cyprus,2016,Kinima Oikologoi Perivallontistoi,1621,2,56,,0,0,0,0,0.0
+Cyprus,2016,Symmaxia,2341,3,56,2341.0,1,0,1,0,0.05357142857142857
+Cyprus,2018,Anorthotikó Kómma Ergazómenou Laoú,572,16,56,572.0,1,0,1,1,0.2857142857142857
+Cyprus,2018,Dimokratikó Kómma,851,9,56,,0,0,0,0,0.0
+Cyprus,2018,Dimokratikós Sinayermós,1575,18,56,,0,0,0,0,0.0
+Cyprus,2018,Kinima Sosialdimokraton EDEK,945,3,56,,0,0,0,0,0.0
+Cyprus,2018,Ethniko Laiko Metopo,1768,2,56,1768.0,1,1,0,1,0.03571428571428571
+Cyprus,2018,Kinima Allileggiis,2626,3,56,2626.0,1,1,0,0,0.05357142857142857
+Cyprus,2018,Kinima Oikologoi Perivallontistoi,1621,2,56,,0,0,0,0,0.0
+Cyprus,2018,Symmaxia,2341,3,56,2341.0,1,0,1,0,0.05357142857142857
+Cyprus,2021,Anorthotikó Kómma Ergazómenou Laoú,572,15,56,572.0,1,0,1,1,0.26785714285714285
+Cyprus,2021,Dimokratikó Kómma,851,9,56,,0,0,0,0,0.0
+Cyprus,2021,Dimokratikós Sinayermós,1575,17,56,,0,0,0,0,0.0
+Cyprus,2021,Dimokratiki Parataxi,2741,4,56,,0,0,0,0,0.0
+Cyprus,2021,Kinima Sosialdimokraton EDEK,945,4,56,,0,0,0,0,0.0
+Cyprus,2021,Ethniko Laiko Metopo,1768,4,56,1768.0,1,1,0,1,0.07142857142857142
+Cyprus,2021,Kinima Oikologoi Perivallontistoi,1621,3,56,,0,0,0,0,0.0
+Czech Republic,2017,Akce nespokojených občanů 2011,2263,78,200,2263.0,1,0,0,0,0.39
+Czech Republic,2017,Česká strana sociálně demokratická,789,15,200,,0,0,0,0,0.0
+Czech Republic,2017,Křesťanská a demokratická unie – Československá strana lidová,1245,10,200,,0,0,0,0,0.0
+Czech Republic,2017,Komunistická strana Cech a Moravy,1173,15,200,1173.0,0,0,1,1,0.0
+Czech Republic,2017,Občanská demokratická strana,829,25,200,,0,0,0,0,0.0
+Czech Republic,2017,Ceska piratska strana,2261,22,200,,0,0,0,0,0.0
+Czech Republic,2017,Svoboda a přímá demokracie ,2654,22,200,2654.0,1,1,0,1,0.11
+Czech Republic,2017,Starostové a nezávislí,2024,6,200,,0,0,0,0,0.0
+Czech Republic,2017,Tradice Odpovědnost Prosperita 09,2,7,200,,0,0,0,0,0.0
+Czech Republic,2018,Akce nespokojených občanů 2011,2263,78,200,2263.0,1,0,0,0,0.39
+Czech Republic,2018,Česká strana sociálně demokratická,789,15,200,,0,0,0,0,0.0
+Czech Republic,2018,Křesťanská a demokratická unie – Československá strana lidová,1245,10,200,,0,0,0,0,0.0
+Czech Republic,2018,Komunistická strana Cech a Moravy,1173,15,200,1173.0,0,0,1,1,0.0
+Czech Republic,2018,Občanská demokratická strana,829,25,200,,0,0,0,0,0.0
+Czech Republic,2018,Ceska piratska strana,2261,22,200,,0,0,0,0,0.0
+Czech Republic,2018,Svoboda a přímá demokracie ,2654,22,200,2654.0,1,1,0,1,0.11
+Czech Republic,2018,Starostové a nezávislí,2024,6,200,,0,0,0,0,0.0
+Czech Republic,2018,Tradice Odpovědnost Prosperita 09,2,7,200,,0,0,0,0,0.0
+Czech Republic,2021,Akce nespokojených občanů 2011,2263,72,200,2263.0,1,0,0,0,0.36
+Czech Republic,2021,Křesťanská a demokratická unie – Československá strana lidová,1245,23,200,,0,0,0,0,0.0
+Czech Republic,2021,Občanská demokratická strana,829,30,200,,0,0,0,0,0.0
+Czech Republic,2021,Ceska piratska strana,2261,4,200,,0,0,0,0,0.0
+Czech Republic,2021,Svoboda a přímá demokracie ,2654,20,200,2654.0,1,1,0,1,0.1
+Czech Republic,2021,Starostové a nezávislí,2024,37,200,,0,0,0,0,0.0
+Czech Republic,2021,Tradice Odpovědnost Prosperita 09,2,14,200,,0,0,0,0,0.0
+Germany,2017,Alternative für Deutschland,2253,94,709,2253.0,1,1,0,1,0.1325811001410437
+Germany,2017,Bündnis 90 / Die Grünen,772,67,709,,0,0,0,0,0.0
+Germany,2017,Christlich Demokratische Union / Christlich Soziale Union,1727,246,709,,0,0,0,0,0.0
+Germany,2017,Freie Demokratische Partei,543,80,709,,0,0,0,0,0.0
+Germany,2017,PDS | Die Linke,791,69,709,791.0,1,0,1,1,0.09732016925246827
+Germany,2017,Sozialdemokratische Partei Deutschlands,558,153,709,,0,0,0,0,0.0
+Germany,2018,Alternative für Deutschland,2253,94,709,2253.0,1,1,0,1,0.1325811001410437
+Germany,2018,Bündnis 90 / Die Grünen,772,67,709,,0,0,0,0,0.0
+Germany,2018,Christlich Demokratische Union / Christlich Soziale Union,1727,246,709,,0,0,0,0,0.0
+Germany,2018,Freie Demokratische Partei,543,80,709,,0,0,0,0,0.0
+Germany,2018,PDS | Die Linke,791,69,709,791.0,1,0,1,1,0.09732016925246827
+Germany,2018,Sozialdemokratische Partei Deutschlands,558,153,709,,0,0,0,0,0.0
+Germany,2021,Alternative für Deutschland,2253,83,736,2253.0,1,1,0,1,0.11277173913043478
+Germany,2021,Bündnis 90 / Die Grünen,772,118,736,,0,0,0,0,0.0
+Germany,2021,Christlich Demokratische Union / Christlich Soziale Union,1727,197,736,,0,0,0,0,0.0
+Germany,2021,Freie Demokratische Partei,543,92,736,,0,0,0,0,0.0
+Germany,2021,PDS | Die Linke,791,39,736,791.0,1,0,1,1,0.05298913043478261
+Germany,2021,Sozialdemokratische Partei Deutschlands,558,206,736,,0,0,0,0,0.0
+Germany,2021,Südschleswigscher Wählerverband,2850,1,736,,0,0,0,0,0.0
+Denmark,2015,Alternativet,2567,9,179,,0,0,0,0,0.0
+Denmark,2015,Dansk Folkeparti,1418,37,179,1418.0,1,1,0,1,0.20670391061452514
+Denmark,2015,Enhedslisten – De Rød-Grønne,306,14,179,306.0,0,0,1,1,0.0
+Denmark,2015,Inuit Ataqatigiit,1891,1,179,,0,0,0,0,0.0
+Denmark,2015,Javnaðarflokkurin,1894,1,179,,0,0,0,0,0.0
+Denmark,2015,Konservative,590,6,179,,0,0,0,0,0.0
+Denmark,2015,Ny-Liberal Alliance,376,13,179,,0,0,0,0,0.0
+Denmark,2015,Det Radikale Venstre,211,8,179,,0,0,0,0,0.0
+Denmark,2015,Socialistisk Folkeparti,1644,7,179,1644.0,0,0,1,1,0.0
+Denmark,2015,Socialdemokraterne,1629,47,179,,0,0,0,0,0.0
+Denmark,2015,Siumut,74,1,179,,0,0,0,0,0.0
+Denmark,2015,Tjóðveldi,2568,1,179,,0,0,0,0,0.0
+Denmark,2015,Venstre,1605,34,179,,0,0,0,0,0.0
+Denmark,2016,Alternativet,2567,9,179,,0,0,0,0,0.0
+Denmark,2016,Dansk Folkeparti,1418,37,179,1418.0,1,1,0,1,0.20670391061452514
+Denmark,2016,Enhedslisten – De Rød-Grønne,306,14,179,306.0,0,0,1,1,0.0
+Denmark,2016,Inuit Ataqatigiit,1891,1,179,,0,0,0,0,0.0
+Denmark,2016,Javnaðarflokkurin,1894,1,179,,0,0,0,0,0.0
+Denmark,2016,Konservative,590,6,179,,0,0,0,0,0.0
+Denmark,2016,Ny-Liberal Alliance,376,13,179,,0,0,0,0,0.0
+Denmark,2016,Det Radikale Venstre,211,8,179,,0,0,0,0,0.0
+Denmark,2016,Socialistisk Folkeparti,1644,7,179,1644.0,0,0,1,1,0.0
+Denmark,2016,Socialdemokraterne,1629,47,179,,0,0,0,0,0.0
+Denmark,2016,Siumut,74,1,179,,0,0,0,0,0.0
+Denmark,2016,Tjóðveldi,2568,1,179,,0,0,0,0,0.0
+Denmark,2016,Venstre,1605,34,179,,0,0,0,0,0.0
+Denmark,2019,Alternativet,2567,5,179,,0,0,0,0,0.0
+Denmark,2019,Dansk Folkeparti,1418,16,179,1418.0,1,1,0,1,0.0893854748603352
+Denmark,2019,Enhedslisten – De Rød-Grønne,306,13,179,306.0,0,0,1,1,0.0
+Denmark,2019,Inuit Ataqatigiit,1891,1,179,,0,0,0,0,0.0
+Denmark,2019,Javnaðarflokkurin,1894,1,179,,0,0,0,0,0.0
+Denmark,2019,Konservative,590,12,179,,0,0,0,0,0.0
+Denmark,2019,Nye Borgerlige,2781,4,179,2781.0,1,1,0,1,0.0223463687150838
+Denmark,2019,Ny-Liberal Alliance,376,4,179,,0,0,0,0,0.0
+Denmark,2019,Det Radikale Venstre,211,16,179,,0,0,0,0,0.0
+Denmark,2019,Socialistisk Folkeparti,1644,14,179,1644.0,0,0,1,1,0.0
+Denmark,2019,Sambandsflokkurin,1892,1,179,,0,0,0,0,0.0
+Denmark,2019,Socialdemokraterne,1629,48,179,,0,0,0,0,0.0
+Denmark,2019,Siumut,74,1,179,,0,0,0,0,0.0
+Denmark,2019,Venstre,1605,43,179,,0,0,0,0,0.0
+Denmark,2022,Alternativet,2567,6,179,,0,0,0,0,0.0
+Denmark,2022,Danmarksdemokraterne,2888,14,179,,0,0,0,0,0.0
+Denmark,2022,Dansk Folkeparti,1418,5,179,1418.0,1,1,0,1,0.027932960893854747
+Denmark,2022,Enhedslisten – De Rød-Grønne,306,9,179,306.0,0,0,1,1,0.0
+Denmark,2022,Inuit Ataqatigiit,1891,1,179,,0,0,0,0,0.0
+Denmark,2022,Javnaðarflokkurin,1894,1,179,,0,0,0,0,0.0
+Denmark,2022,Konservative,590,10,179,,0,0,0,0,0.0
+Denmark,2022,Moderaterne,2887,16,179,,0,0,0,0,0.0
+Denmark,2022,Nye Borgerlige,2781,6,179,2781.0,1,1,0,1,0.0335195530726257
+Denmark,2022,Ny-Liberal Alliance,376,14,179,,0,0,0,0,0.0
+Denmark,2022,Det Radikale Venstre,211,7,179,,0,0,0,0,0.0
+Denmark,2022,Socialistisk Folkeparti,1644,15,179,1644.0,0,0,1,1,0.0
+Denmark,2022,Sambandsflokkurin,1892,1,179,,0,0,0,0,0.0
+Denmark,2022,Socialdemokraterne,1629,50,179,,0,0,0,0,0.0
+Denmark,2022,Siumut,74,1,179,,0,0,0,0,0.0
+Denmark,2022,Venstre,1605,23,179,,0,0,0,0,0.0
+Spain,2015,Alianza-Partido Popular,645,123,350,,0,0,0,0,0.0
+Spain,2015,Coalición Canaria,234,1,350,,0,0,0,0,0.0
+Spain,2015,Convergència Democràtica | Junts per Catalunya,2605,8,350,,0,0,0,0,0.0
+Spain,2015,Ciudadanos – Partido de la Ciudadanía,2375,40,350,,0,0,0,0,0.0
+Spain,2015,Compromís | A la valenciana,2607,9,350,,0,0,0,0,0.0
+Spain,2015,En Comú Podem,2606,12,350,,0,0,0,0,0.0
+Spain,2015,Euskal Herria Bildu,2603,2,350,2603.0,0,0,1,1,0.0
+Spain,2015,En Marea | Grupo Común da Esquerda,2604,6,350,,0,0,0,0,0.0
+Spain,2015,Esquerra Republicana de Catalunya,757,9,350,,0,0,0,0,0.0
+Spain,2015,Podemos,2376,42,350,2376.0,1,0,1,1,0.12
+Spain,2015,Partido Communista | Izquierda Unida,118,2,350,118.0,0,0,1,1,0.0
+Spain,2015,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,6,350,,0,0,0,0,0.0
+Spain,2015,Partido Socialista Obrero Español,902,90,350,,0,0,0,0,0.0
+Spain,2016,Alianza-Partido Popular,645,137,350,,0,0,0,0,0.0
+Spain,2016,Coalición Canaria,234,1,350,,0,0,0,0,0.0
+Spain,2016,Convergència Democràtica | Junts per Catalunya,2605,8,350,,0,0,0,0,0.0
+Spain,2016,Ciudadanos – Partido de la Ciudadanía,2375,32,350,,0,0,0,0,0.0
+Spain,2016,Compromís | A la valenciana,2607,9,350,,0,0,0,0,0.0
+Spain,2016,En Comú Podem,2606,12,350,,0,0,0,0,0.0
+Spain,2016,Euskal Herria Bildu,2603,2,350,2603.0,0,0,1,1,0.0
+Spain,2016,En Marea | Grupo Común da Esquerda,2604,5,350,,0,0,0,0,0.0
+Spain,2016,Esquerra Republicana de Catalunya,757,9,350,,0,0,0,0,0.0
+Spain,2016,Podemos,2376,45,350,2376.0,1,0,1,1,0.12857142857142856
+Spain,2016,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,5,350,,0,0,0,0,0.0
+Spain,2016,Partido Socialista Obrero Español,902,85,350,,0,0,0,0,0.0
+Spain,2016,Alianza-Partido Popular,645,137,350,,0,0,0,0,0.0
+Spain,2016,Coalición Canaria,234,1,350,,0,0,0,0,0.0
+Spain,2016,Convergència Democràtica | Junts per Catalunya,2605,8,350,,0,0,0,0,0.0
+Spain,2016,Ciudadanos – Partido de la Ciudadanía,2375,32,350,,0,0,0,0,0.0
+Spain,2016,Compromís | A la valenciana,2607,9,350,,0,0,0,0,0.0
+Spain,2016,En Comú Podem,2606,12,350,,0,0,0,0,0.0
+Spain,2016,Euskal Herria Bildu,2603,2,350,2603.0,0,0,1,1,0.0
+Spain,2016,En Marea | Grupo Común da Esquerda,2604,5,350,,0,0,0,0,0.0
+Spain,2016,Esquerra Republicana de Catalunya,757,9,350,,0,0,0,0,0.0
+Spain,2016,Podemos,2376,45,350,2376.0,1,0,1,1,0.12857142857142856
+Spain,2016,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,5,350,,0,0,0,0,0.0
+Spain,2016,Partido Socialista Obrero Español,902,85,350,,0,0,0,0,0.0
+Spain,2018,Alianza-Partido Popular,645,137,350,,0,0,0,0,0.0
+Spain,2018,Coalición Canaria,234,1,350,,0,0,0,0,0.0
+Spain,2018,Convergència Democràtica | Junts per Catalunya,2605,8,350,,0,0,0,0,0.0
+Spain,2018,Ciudadanos – Partido de la Ciudadanía,2375,32,350,,0,0,0,0,0.0
+Spain,2018,Compromís | A la valenciana,2607,9,350,,0,0,0,0,0.0
+Spain,2018,En Comú Podem,2606,12,350,,0,0,0,0,0.0
+Spain,2018,Euskal Herria Bildu,2603,2,350,2603.0,0,0,1,1,0.0
+Spain,2018,En Marea | Grupo Común da Esquerda,2604,5,350,,0,0,0,0,0.0
+Spain,2018,Esquerra Republicana de Catalunya,757,9,350,,0,0,0,0,0.0
+Spain,2018,Podemos,2376,45,350,2376.0,1,0,1,1,0.12857142857142856
+Spain,2018,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,5,350,,0,0,0,0,0.0
+Spain,2018,Partido Socialista Obrero Español,902,85,350,,0,0,0,0,0.0
+Spain,2019,Alianza-Partido Popular,645,66,350,,0,0,0,0,0.0
+Spain,2019,Coalición Canaria,234,2,350,,0,0,0,0,0.0
+Spain,2019,Convergència Democràtica | Junts per Catalunya,2605,7,350,,0,0,0,0,0.0
+Spain,2019,Ciudadanos – Partido de la Ciudadanía,2375,57,350,,0,0,0,0,0.0
+Spain,2019,En Comú Podem,2606,7,350,,0,0,0,0,0.0
+Spain,2019,Euskal Herria Bildu,2603,4,350,2603.0,0,0,1,1,0.0
+Spain,2019,En Marea | Grupo Común da Esquerda,2604,2,350,,0,0,0,0,0.0
+Spain,2019,Esquerra Republicana de Catalunya,757,15,350,,0,0,0,0,0.0
+Spain,2019,Navarra Suma,2723,2,350,,0,0,0,0,0.0
+Spain,2019,Podemos,2376,33,350,2376.0,1,0,1,1,0.09428571428571429
+Spain,2019,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,6,350,,0,0,0,0,0.0
+Spain,2019,Partido Socialista Obrero Español,902,123,350,,0,0,0,0,0.0
+Spain,2019,Vox,2380,24,350,2380.0,1,1,0,1,0.06857142857142857
+Spain,2019,one seat,2294,2,350,,0,0,0,0,0.0
+Spain,2020,Alianza-Partido Popular,645,89,350,,0,0,0,0,0.0
+Spain,2020,Bloque Nacionalista Galego,520,1,350,520.0,0,0,1,1,0.0
+Spain,2020,Coalición Canaria,234,2,350,,0,0,0,0,0.0
+Spain,2020,Convergència Democràtica | Junts per Catalunya,2605,8,350,,0,0,0,0,0.0
+Spain,2020,Candidatura d'Unitat Popular,2792,2,350,2792.0,0,0,1,1,0.0
+Spain,2020,Ciudadanos – Partido de la Ciudadanía,2375,10,350,,0,0,0,0,0.0
+Spain,2020,Compromís | A la valenciana,2607,1,350,,0,0,0,0,0.0
+Spain,2020,En Comú Podem,2606,7,350,,0,0,0,0,0.0
+Spain,2020,Euskal Herria Bildu,2603,5,350,2603.0,0,0,1,1,0.0
+Spain,2020,En Marea | Grupo Común da Esquerda,2604,2,350,,0,0,0,0,0.0
+Spain,2020,Esquerra Republicana de Catalunya,757,13,350,,0,0,0,0,0.0
+Spain,2020,Equo,2804,2,350,,0,0,0,0,0.0
+Spain,2020,Navarra Suma,2723,2,350,,0,0,0,0,0.0
+Spain,2020,Podemos,2376,26,350,2376.0,1,0,1,1,0.07428571428571429
+Spain,2020,Partido Communista | Izquierda Unida,118,0,350,118.0,0,0,1,1,0.0
+Spain,2020,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,1361,6,350,,0,0,0,0,0.0
+Spain,2020,Partido Socialista Obrero Español,902,120,350,,0,0,0,0,0.0
+Spain,2020,Unidas Podemos,2724,0,350,2724.0,1,0,1,1,0.0
+Spain,2020,Vox,2380,52,350,2380.0,1,1,0,1,0.14857142857142858
+Spain,2020,one seat,2294,2,350,,0,0,0,0,0.0
+Estonia,2015,Eesti Keskerakond,1137,27,101,1137.0,1,0,0,0,0.26732673267326734
+Estonia,2015,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,7,101,417.0,1,1,0,1,0.06930693069306931
+Estonia,2015,Eesti Reformierakond,113,30,101,,0,0,0,0,0.0
+Estonia,2015,Eesti Vabaerakond,2409,8,101,,0,0,0,0,0.0
+Estonia,2015,Erakond Isamaa ja Res Publica Liit,1597,14,101,,0,0,0,0,0.0
+Estonia,2015,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,15,101,,0,0,0,0,0.0
+Estonia,2016,Eesti Keskerakond,1137,27,101,1137.0,1,0,0,0,0.26732673267326734
+Estonia,2016,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,7,101,417.0,1,1,0,1,0.06930693069306931
+Estonia,2016,Eesti Reformierakond,113,30,101,,0,0,0,0,0.0
+Estonia,2016,Eesti Vabaerakond,2409,8,101,,0,0,0,0,0.0
+Estonia,2016,Erakond Isamaa ja Res Publica Liit,1597,14,101,,0,0,0,0,0.0
+Estonia,2016,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,15,101,,0,0,0,0,0.0
+Estonia,2019,Eesti Keskerakond,1137,26,101,1137.0,1,0,0,0,0.25742574257425743
+Estonia,2019,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,19,101,417.0,1,1,0,1,0.18811881188118812
+Estonia,2019,Eesti Reformierakond,113,34,101,,0,0,0,0,0.0
+Estonia,2019,Erakond Isamaa ja Res Publica Liit,1597,12,101,,0,0,0,0,0.0
+Estonia,2019,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,10,101,,0,0,0,0,0.0
+Estonia,2021,Eesti Keskerakond,1137,26,101,1137.0,1,0,0,0,0.25742574257425743
+Estonia,2021,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,19,101,417.0,1,1,0,1,0.18811881188118812
+Estonia,2021,Eesti Reformierakond,113,34,101,,0,0,0,0,0.0
+Estonia,2021,Erakond Isamaa ja Res Publica Liit,1597,12,101,,0,0,0,0,0.0
+Estonia,2021,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,10,101,,0,0,0,0,0.0
+Estonia,2022,Eesti Keskerakond,1137,26,101,1137.0,1,0,0,0,0.25742574257425743
+Estonia,2022,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,19,101,417.0,1,1,0,1,0.18811881188118812
+Estonia,2022,Eesti Reformierakond,113,34,101,,0,0,0,0,0.0
+Estonia,2022,Erakond Isamaa ja Res Publica Liit,1597,12,101,,0,0,0,0,0.0
+Estonia,2022,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,10,101,,0,0,0,0,0.0
+Estonia,2023,Erakond Eesti 200,2720,14,101,,0,0,0,0,0.0
+Estonia,2023,Eesti Keskerakond,1137,16,101,1137.0,1,0,0,0,0.15841584158415842
+Estonia,2023,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,417,17,101,417.0,1,1,0,1,0.16831683168316833
+Estonia,2023,Eesti Reformierakond,113,37,101,,0,0,0,0,0.0
+Estonia,2023,Erakond Isamaa ja Res Publica Liit,1597,8,101,,0,0,0,0,0.0
+Estonia,2023,Sotsiaaldemokraatlik Erakond | Mõõdukad,1448,9,101,,0,0,0,0,0.0
+Finland,2015,Åländsk Samling,66,1,200,,0,0,0,0,0.0
+Finland,2015,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,1292,12,200,1292.0,0,0,1,1,0.0
+Finland,2015,Kristillisdemokraatit – Kristdemokraterna,1463,5,200,,0,0,0,0,0.0
+Finland,2015,Keskusta,94,49,200,,0,0,0,0,0.0
+Finland,2015,Kansallinen Kokoomus – Samlingspartiet,1118,37,200,,0,0,0,0,0.0
+Finland,2015,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,585,9,200,,0,0,0,0,0.0
+Finland,2015,Suomen Puolue | Perussuomalaiset,200,38,200,200.0,1,1,0,1,0.19
+Finland,2015,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,395,34,200,,0,0,0,0,0.0
+Finland,2015,Vihreä Liitto – Gröna Förbundet,1062,15,200,,0,0,0,0,0.0
+Finland,2017,Åländsk Samling,66,1,200,,0,0,0,0,0.0
+Finland,2017,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,1292,12,200,1292.0,0,0,1,1,0.0
+Finland,2017,Kristillisdemokraatit – Kristdemokraterna,1463,5,200,,0,0,0,0,0.0
+Finland,2017,Keskusta,94,49,200,,0,0,0,0,0.0
+Finland,2017,Kansallinen Kokoomus – Samlingspartiet,1118,37,200,,0,0,0,0,0.0
+Finland,2017,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,585,9,200,,0,0,0,0,0.0
+Finland,2017,Suomen Puolue | Perussuomalaiset,200,18,200,200.0,1,1,0,1,0.09
+Finland,2017,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,395,34,200,,0,0,0,0,0.0
+Finland,2017,Uusi vaihtoehto | Sininen tulevaisuus,2645,20,200,,0,0,0,0,0.0
+Finland,2017,Vihreä Liitto – Gröna Förbundet,1062,15,200,,0,0,0,0,0.0
+Finland,2019,Åländsk Samling,66,1,200,,0,0,0,0,0.0
+Finland,2019,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,1292,16,200,1292.0,0,0,1,1,0.0
+Finland,2019,Kristillisdemokraatit – Kristdemokraterna,1463,5,200,,0,0,0,0,0.0
+Finland,2019,Keskusta,94,31,200,,0,0,0,0,0.0
+Finland,2019,Kansallinen Kokoomus – Samlingspartiet,1118,38,200,,0,0,0,0,0.0
+Finland,2019,Liike Nyt,2801,1,200,2801.0,1,0,0,1,0.005
+Finland,2019,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,585,9,200,,0,0,0,0,0.0
+Finland,2019,Suomen Puolue | Perussuomalaiset,200,39,200,200.0,1,1,0,1,0.195
+Finland,2019,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,395,40,200,,0,0,0,0,0.0
+Finland,2019,Vihreä Liitto – Gröna Förbundet,1062,20,200,,0,0,0,0,0.0
+Finland,2019,Åländsk Samling,66,1,200,,0,0,0,0,0.0
+Finland,2019,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,1292,16,200,1292.0,0,0,1,1,0.0
+Finland,2019,Kristillisdemokraatit – Kristdemokraterna,1463,5,200,,0,0,0,0,0.0
+Finland,2019,Keskusta,94,31,200,,0,0,0,0,0.0
+Finland,2019,Kansallinen Kokoomus – Samlingspartiet,1118,38,200,,0,0,0,0,0.0
+Finland,2019,Liike Nyt,2801,1,200,2801.0,1,0,0,1,0.005
+Finland,2019,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,585,9,200,,0,0,0,0,0.0
+Finland,2019,Suomen Puolue | Perussuomalaiset,200,39,200,200.0,1,1,0,1,0.195
+Finland,2019,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,395,40,200,,0,0,0,0,0.0
+Finland,2019,Vihreä Liitto – Gröna Förbundet,1062,20,200,,0,0,0,0,0.0
+Finland,2023,Åländsk Samling,66,1,200,,0,0,0,0,0.0
+Finland,2023,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,1292,11,200,1292.0,0,0,1,1,0.0
+Finland,2023,Kristillisdemokraatit – Kristdemokraterna,1463,5,200,,0,0,0,0,0.0
+Finland,2023,Keskusta,94,23,200,,0,0,0,0,0.0
+Finland,2023,Kansallinen Kokoomus – Samlingspartiet,1118,48,200,,0,0,0,0,0.0
+Finland,2023,Liike Nyt,2801,1,200,2801.0,1,0,0,1,0.005
+Finland,2023,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,585,9,200,,0,0,0,0,0.0
+Finland,2023,Suomen Puolue | Perussuomalaiset,200,46,200,200.0,1,1,0,1,0.23
+Finland,2023,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,395,43,200,,0,0,0,0,0.0
+Finland,2023,Vihreä Liitto – Gröna Förbundet,1062,13,200,,0,0,0,0,0.0
+France,2016,Gauche démocrate et républicaine,2272,15,577,,0,0,0,0,0.0
+France,2016,Parti écologiste,2813,0,577,,0,0,0,0,0.0
+France,2016,Parti radical de gauche,1492,16,577,,0,0,0,0,0.0
+France,2016,Parti socialiste,1539,292,577,,0,0,0,0,0.0
+France,2016,Union des démocrates et indépendants,2273,30,577,,0,0,0,0,0.0
+France,2016,Union pour un mouvement populaire | Les Républicains,658,199,577,,0,0,0,0,0.0
+France,2016,Les Verts,873,17,577,,0,0,0,0,0.0
+France,2016,sans étiquette,947,8,577,,0,0,0,0,0.0
+France,2016,Gauche démocrate et républicaine,2272,15,577,,0,0,0,0,0.0
+France,2016,Parti écologiste,2813,0,577,,0,0,0,0,0.0
+France,2016,Parti radical de gauche,1492,16,577,,0,0,0,0,0.0
+France,2016,Parti socialiste,1539,292,577,,0,0,0,0,0.0
+France,2016,Union des démocrates et indépendants,2273,30,577,,0,0,0,0,0.0
+France,2016,Union pour un mouvement populaire | Les Républicains,658,199,577,,0,0,0,0,0.0
+France,2016,Les Verts,873,17,577,,0,0,0,0,0.0
+France,2016,sans étiquette,947,8,577,,0,0,0,0,0.0
+France,2017,Gauche démocrate et républicaine,2272,15,577,,0,0,0,0,0.0
+France,2017,Parti radical de gauche,1492,16,577,,0,0,0,0,0.0
+France,2017,Parti socialiste,1539,292,577,,0,0,0,0,0.0
+France,2017,La République En Marche! | Renaissance,2643,0,577,,0,0,0,0,0.0
+France,2017,Union pour la démocratie française | Mouvement démocrate,509,0,577,,0,0,0,0,0.0
+France,2017,Union des démocrates et indépendants,2273,30,577,,0,0,0,0,0.0
+France,2017,Union pour un mouvement populaire | Les Républicains,658,199,577,,0,0,0,0,0.0
+France,2017,Les Verts,873,17,577,,0,0,0,0,0.0
+France,2017,sans étiquette,947,8,577,,0,0,0,0,0.0
+France,2017,Debout la république | Debout la France,2399,1,577,2399.0,1,1,0,1,0.0017331022530329288
+France,2017,La France Insoumise,2644,17,577,2644.0,1,0,1,1,0.029462738301559793
+France,2017,Rassemblement National ,270,8,577,270.0,1,1,0,1,0.01386481802426343
+France,2017,Parti communiste française,686,10,577,686.0,0,0,1,1,0.0
+France,2017,Parti radical de gauche,1492,3,577,,0,0,0,0,0.0
+France,2017,Parti socialiste,1539,30,577,,0,0,0,0,0.0
+France,2017,La République En Marche! | Renaissance,2643,308,577,,0,0,0,0,0.0
+France,2017,Union pour la démocratie française | Mouvement démocrate,509,42,577,,0,0,0,0,0.0
+France,2017,Union des démocrates et indépendants,2273,18,577,,0,0,0,0,0.0
+France,2017,Union pour un mouvement populaire | Les Républicains,658,112,577,,0,0,0,0,0.0
+France,2017,Les Verts,873,1,577,,0,0,0,0,0.0
+France,2017,divers droite,285,6,577,,0,0,0,0,0.0
+France,2017,divers gauche,177,12,577,,0,0,0,0,0.0
+France,2017,divers,1328,3,577,,0,0,0,0,0.0
+France,2017,extrême droite,2079,1,577,,0,0,0,0,0.0
+France,2017,sans étiquette,947,5,577,,0,0,0,0,0.0
+France,2020,Debout la république | Debout la France,2399,1,577,2399.0,1,1,0,1,0.0017331022530329288
+France,2020,La France Insoumise,2644,17,577,2644.0,1,0,1,1,0.029462738301559793
+France,2020,Rassemblement National ,270,8,577,270.0,1,1,0,1,0.01386481802426343
+France,2020,Parti communiste française,686,10,577,686.0,0,0,1,1,0.0
+France,2020,Parti radical de gauche,1492,3,577,,0,0,0,0,0.0
+France,2020,Parti socialiste,1539,30,577,,0,0,0,0,0.0
+France,2020,La République En Marche! | Renaissance,2643,308,577,,0,0,0,0,0.0
+France,2020,Union pour la démocratie française | Mouvement démocrate,509,42,577,,0,0,0,0,0.0
+France,2020,Union des démocrates et indépendants,2273,18,577,,0,0,0,0,0.0
+France,2020,Union pour un mouvement populaire | Les Républicains,658,112,577,,0,0,0,0,0.0
+France,2020,Les Verts,873,1,577,,0,0,0,0,0.0
+France,2020,divers droite,285,6,577,,0,0,0,0,0.0
+France,2020,divers gauche,177,12,577,,0,0,0,0,0.0
+France,2020,divers,1328,3,577,,0,0,0,0,0.0
+France,2020,extrême droite,2079,1,577,,0,0,0,0,0.0
+France,2020,sans étiquette,947,5,577,,0,0,0,0,0.0
+France,2022,"Agir, la droite constructive",2862,0,577,,0,0,0,0,0.0
+France,2022,Debout la république | Debout la France,2399,1,577,2399.0,1,1,0,1,0.0017331022530329288
+France,2022,La France Insoumise,2644,17,577,2644.0,1,0,1,1,0.029462738301559793
+France,2022,Rassemblement National ,270,8,577,270.0,1,1,0,1,0.01386481802426343
+France,2022,Horizons,2857,0,577,,0,0,0,0,0.0
+France,2022,Parti communiste française,686,10,577,686.0,0,0,1,1,0.0
+France,2022,Parti radical de gauche,1492,3,577,,0,0,0,0,0.0
+France,2022,Parti socialiste,1539,30,577,,0,0,0,0,0.0
+France,2022,La République En Marche! | Renaissance,2643,308,577,,0,0,0,0,0.0
+France,2022,Union pour la démocratie française | Mouvement démocrate,509,42,577,,0,0,0,0,0.0
+France,2022,Union des démocrates et indépendants,2273,18,577,,0,0,0,0,0.0
+France,2022,Union pour un mouvement populaire | Les Républicains,658,112,577,,0,0,0,0,0.0
+France,2022,Les Verts,873,1,577,,0,0,0,0,0.0
+France,2022,divers droite,285,6,577,,0,0,0,0,0.0
+France,2022,divers gauche,177,12,577,,0,0,0,0,0.0
+France,2022,divers,1328,3,577,,0,0,0,0,0.0
+France,2022,extrême droite,2079,1,577,,0,0,0,0,0.0
+France,2022,sans étiquette,947,5,577,,0,0,0,0,0.0
+France,2022,"Agir, la droite constructive",2862,0,577,,0,0,0,0,0.0
+France,2022,La France Insoumise,2644,131,577,2644.0,1,0,1,1,0.2270363951473137
+France,2022,Rassemblement National ,270,89,577,270.0,1,1,0,1,0.15424610051993068
+France,2022,Horizons,2857,0,577,,0,0,0,0,0.0
+France,2022,La République En Marche! | Renaissance,2643,245,577,,0,0,0,0,0.0
+France,2022,Union pour la démocratie française | Mouvement démocrate,509,0,577,,0,0,0,0,0.0
+France,2022,Union des démocrates et indépendants,2273,3,577,,0,0,0,0,0.0
+France,2022,Union pour un mouvement populaire | Les Républicains,658,61,577,,0,0,0,0,0.0
+France,2022,divers centre,2858,4,577,,0,0,0,0,0.0
+France,2022,divers droite,285,10,577,,0,0,0,0,0.0
+France,2022,divers gauche,177,22,577,,0,0,0,0,0.0
+France,2022,divers,1328,1,577,,0,0,0,0,0.0
+France,2022,sans étiquette,947,10,577,,0,0,0,0,0.0
+France,2022,one seat,2859,1,577,,0,0,0,0,0.0
+United Kingdom,2015,Conservatives,773,331,650,,0,0,0,0,0.0
+United Kingdom,2015,Democratic Unionist Party,319,8,650,319.0,1,0,0,1,0.012307692307692308
+United Kingdom,2015,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2015,Labour Party,1556,232,650,,0,0,0,0,0.0
+United Kingdom,2015,Liberals,659,8,650,,0,0,0,0,0.0
+United Kingdom,2015,Plaid Cymru,311,3,650,,0,0,0,0,0.0
+United Kingdom,2015,Social Democratic and Labour Party,1023,3,650,,0,0,0,0,0.0
+United Kingdom,2015,Sinn Féin,689,4,650,,0,0,0,0,0.0
+United Kingdom,2015,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,56,650,,0,0,0,0,0.0
+United Kingdom,2015,United Kingdom Independence Party,1272,1,650,1272.0,1,1,0,1,0.0015384615384615385
+United Kingdom,2015,Ulster Unionist Party,1210,2,650,,0,0,0,0,0.0
+United Kingdom,2015,one seat,2296,1,650,,0,0,0,0,0.0
+United Kingdom,2016,Conservatives,773,331,650,,0,0,0,0,0.0
+United Kingdom,2016,Democratic Unionist Party,319,8,650,319.0,1,0,0,1,0.012307692307692308
+United Kingdom,2016,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2016,Labour Party,1556,232,650,,0,0,0,0,0.0
+United Kingdom,2016,Liberals,659,8,650,,0,0,0,0,0.0
+United Kingdom,2016,Plaid Cymru,311,3,650,,0,0,0,0,0.0
+United Kingdom,2016,Social Democratic and Labour Party,1023,3,650,,0,0,0,0,0.0
+United Kingdom,2016,Sinn Féin,689,4,650,,0,0,0,0,0.0
+United Kingdom,2016,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,56,650,,0,0,0,0,0.0
+United Kingdom,2016,United Kingdom Independence Party,1272,1,650,1272.0,1,1,0,1,0.0015384615384615385
+United Kingdom,2016,Ulster Unionist Party,1210,2,650,,0,0,0,0,0.0
+United Kingdom,2016,one seat,2296,1,650,,0,0,0,0,0.0
+United Kingdom,2017,Conservatives,773,318,650,,0,0,0,0,0.0
+United Kingdom,2017,Democratic Unionist Party,319,10,650,319.0,1,0,0,1,0.015384615384615385
+United Kingdom,2017,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2017,Labour Party,1556,262,650,,0,0,0,0,0.0
+United Kingdom,2017,Liberals,659,12,650,,0,0,0,0,0.0
+United Kingdom,2017,Plaid Cymru,311,4,650,,0,0,0,0,0.0
+United Kingdom,2017,Sinn Féin,689,7,650,,0,0,0,0,0.0
+United Kingdom,2017,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,35,650,,0,0,0,0,0.0
+United Kingdom,2017,one seat,2296,1,650,,0,0,0,0,0.0
+United Kingdom,2019,Conservatives,773,318,650,,0,0,0,0,0.0
+United Kingdom,2019,Democratic Unionist Party,319,10,650,319.0,1,0,0,1,0.015384615384615385
+United Kingdom,2019,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2019,Labour Party,1556,262,650,,0,0,0,0,0.0
+United Kingdom,2019,Liberals,659,12,650,,0,0,0,0,0.0
+United Kingdom,2019,Plaid Cymru,311,4,650,,0,0,0,0,0.0
+United Kingdom,2019,Sinn Féin,689,7,650,,0,0,0,0,0.0
+United Kingdom,2019,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,35,650,,0,0,0,0,0.0
+United Kingdom,2019,one seat,2296,1,650,,0,0,0,0,0.0
+United Kingdom,2019,Alliance Party of Northern Ireland,2731,1,650,,0,0,0,0,0.0
+United Kingdom,2019,Conservatives,773,365,650,,0,0,0,0,0.0
+United Kingdom,2019,Democratic Unionist Party,319,8,650,319.0,1,0,0,1,0.012307692307692308
+United Kingdom,2019,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2019,Labour Party,1556,203,650,,0,0,0,0,0.0
+United Kingdom,2019,Liberals,659,11,650,,0,0,0,0,0.0
+United Kingdom,2019,Plaid Cymru,311,4,650,,0,0,0,0,0.0
+United Kingdom,2019,Social Democratic and Labour Party,1023,2,650,,0,0,0,0,0.0
+United Kingdom,2019,Sinn Féin,689,7,650,,0,0,0,0,0.0
+United Kingdom,2019,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,48,650,,0,0,0,0,0.0
+United Kingdom,2022,Alliance Party of Northern Ireland,2731,1,650,,0,0,0,0,0.0
+United Kingdom,2022,Conservatives,773,365,650,,0,0,0,0,0.0
+United Kingdom,2022,Democratic Unionist Party,319,8,650,319.0,1,0,0,1,0.012307692307692308
+United Kingdom,2022,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2022,Labour Party,1556,203,650,,0,0,0,0,0.0
+United Kingdom,2022,Liberals,659,11,650,,0,0,0,0,0.0
+United Kingdom,2022,Plaid Cymru,311,4,650,,0,0,0,0,0.0
+United Kingdom,2022,Social Democratic and Labour Party,1023,2,650,,0,0,0,0,0.0
+United Kingdom,2022,Sinn Féin,689,7,650,,0,0,0,0,0.0
+United Kingdom,2022,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,48,650,,0,0,0,0,0.0
+United Kingdom,2022,Alliance Party of Northern Ireland,2731,1,650,,0,0,0,0,0.0
+United Kingdom,2022,Conservatives,773,365,650,,0,0,0,0,0.0
+United Kingdom,2022,Democratic Unionist Party,319,8,650,319.0,1,0,0,1,0.012307692307692308
+United Kingdom,2022,Green Party,467,1,650,,0,0,0,0,0.0
+United Kingdom,2022,Labour Party,1556,203,650,,0,0,0,0,0.0
+United Kingdom,2022,Liberals,659,11,650,,0,0,0,0,0.0
+United Kingdom,2022,Plaid Cymru,311,4,650,,0,0,0,0,0.0
+United Kingdom,2022,Social Democratic and Labour Party,1023,2,650,,0,0,0,0,0.0
+United Kingdom,2022,Sinn Féin,689,7,650,,0,0,0,0,0.0
+United Kingdom,2022,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,1284,48,650,,0,0,0,0,0.0
+Greece,2015,Anexartitoi Ellines,2091,13,300,2091.0,1,1,0,1,0.043333333333333335
+Greece,2015,Kommounistikó Kómma Elládas,614,15,300,614.0,0,0,1,1,0.0
+Greece,2015,Laikos Syndesmos – Chrysi Avg,2092,17,300,2092.0,1,1,0,1,0.056666666666666664
+Greece,2015,Néa Đimokratía,47,76,300,,0,0,0,0,0.0
+Greece,2015,Panellinio Sosialistikó Kínima,1338,13,300,,0,0,0,0,0.0
+Greece,2015,Synaspismós Rizospastikís Aristerás,1592,149,300,1592.0,1,0,1,1,0.49666666666666665
+Greece,2015,To Potami,2346,17,300,,0,0,0,0,0.0
+Greece,2015,Anexartitoi Ellines,2091,10,300,2091.0,1,1,0,1,0.03333333333333333
+Greece,2015,Enosi Kentroon,2165,9,300,,0,0,0,0,0.0
+Greece,2015,Kommounistikó Kómma Elládas,614,15,300,614.0,0,0,1,1,0.0
+Greece,2015,Laikos Syndesmos – Chrysi Avg,2092,18,300,2092.0,1,1,0,1,0.06
+Greece,2015,Néa Đimokratía,47,75,300,,0,0,0,0,0.0
+Greece,2015,Panellinio Sosialistikó Kínima,1338,17,300,,0,0,0,0,0.0
+Greece,2015,Synaspismós Rizospastikís Aristerás,1592,145,300,1592.0,1,0,1,1,0.48333333333333334
+Greece,2015,To Potami,2346,11,300,,0,0,0,0,0.0
+Greece,2019,Anexartitoi Ellines,2091,5,300,2091.0,1,1,0,1,0.016666666666666666
+Greece,2019,Enosi Kentroon,2165,8,300,,0,0,0,0,0.0
+Greece,2019,Kommounistikó Kómma Elládas,614,15,300,614.0,0,0,1,1,0.0
+Greece,2019,Laikos Syndesmos – Chrysi Avg,2092,18,300,2092.0,1,1,0,1,0.06
+Greece,2019,Néa Đimokratía,47,75,300,,0,0,0,0,0.0
+Greece,2019,Panellinio Sosialistikó Kínima,1338,17,300,,0,0,0,0,0.0
+Greece,2019,Synaspismós Rizospastikís Aristerás,1592,145,300,1592.0,1,0,1,1,0.48333333333333334
+Greece,2019,To Potami,2346,10,300,,0,0,0,0,0.0
+Greece,2019,no party affiliation,1358,7,300,,0,0,0,0,0.0
+Greece,2019,Elliniki Lisi,2780,10,300,2780.0,1,1,0,1,0.03333333333333333
+Greece,2019,Kommounistikó Kómma Elládas,614,15,300,614.0,0,0,1,1,0.0
+Greece,2019,Métopo Evropaikís Realistikís Anypakoís,2742,9,300,2742.0,1,0,1,1,0.03
+Greece,2019,Néa Đimokratía,47,158,300,,0,0,0,0,0.0
+Greece,2019,Panellinio Sosialistikó Kínima,1338,22,300,,0,0,0,0,0.0
+Greece,2019,Synaspismós Rizospastikís Aristerás,1592,86,300,1592.0,1,0,1,1,0.2866666666666667
+Greece,2023,Elliniki Lisi,2780,16,300,2780.0,1,1,0,1,0.05333333333333334
+Greece,2023,Kommounistikó Kómma Elládas,614,26,300,614.0,0,0,1,1,0.0
+Greece,2023,Néa Đimokratía,47,146,300,,0,0,0,0,0.0
+Greece,2023,Panellinio Sosialistikó Kínima,1338,41,300,,0,0,0,0,0.0
+Greece,2023,Synaspismós Rizospastikís Aristerás,1592,71,300,1592.0,1,0,1,1,0.23666666666666666
+Greece,2023,no party affiliation,1358,0,300,,0,0,0,0,0.0
+Greece,2023,Elliniki Lisi,2780,12,300,2780.0,1,1,0,1,0.04
+Greece,2023,Kommounistikó Kómma Elládas,614,21,300,614.0,0,0,1,1,0.0
+Greece,2023,Laïkí Enótita | Plefsi Eleftherias,2596,8,300,2596.0,1,0,1,0,0.02666666666666667
+Greece,2023,Néa Đimokratía,47,158,300,,0,0,0,0,0.0
+Greece,2023,Dimokratikó Patriotikó Kínima 'Níki',2901,10,300,,0,0,0,0,0.0
+Greece,2023,Panellinio Sosialistikó Kínima,1338,32,300,,0,0,0,0,0.0
+Greece,2023,Synaspismós Rizospastikís Aristerás,1592,47,300,1592.0,1,0,1,1,0.15666666666666668
+Greece,2023,Spartiátes,2902,12,300,,0,0,0,0,0.0
+Croatia,2016,Hrvatski demokratski savez Slavonije i Baranje,2135,2,151,2135.0,1,1,0,0,0.013245033112582781
+Croatia,2016,Hrvatska demokratska zajednica,276,50,151,276.0,1,1,0,1,0.33112582781456956
+Croatia,2016,Hrvatski laburisti – Stranka rada,2182,3,151,2182.0,1,0,0,0,0.019867549668874173
+Croatia,2016,Hrvatska narodna stranka – Liberalni demokrati,1384,9,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska socijalno liberalna stranka,1102,2,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska stranka prava dr. Ante Starčević,2181,3,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska seljačka stranka,1465,1,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska stranka umirovljenika,2134,2,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatski rast,2185,1,151,2185.0,1,1,0,1,0.006622516556291391
+Croatia,2016,Istarski demokratski sabor,1627,3,151,,0,0,0,0,0.0
+Croatia,2016,Milan Bandić 365 – Stranka rada i solidarnosti,2628,2,151,2628.0,1,0,0,0,0.013245033112582781
+Croatia,2016,Most nezavisnih lista,2615,19,151,2615.0,1,1,0,0,0.12582781456953643
+Croatia,2016,Narodna stranka – Reformisti,2614,1,151,,0,0,0,0,0.0
+Croatia,2016,Samostalna demokratska srpska stranka,2133,3,151,,0,0,0,0,0.0
+Croatia,2016,Socijaldemokratska partija Hrvatske,1493,42,151,,0,0,0,0,0.0
+Croatia,2016,Živi zid,2612,1,151,2612.0,1,0,0,1,0.006622516556291391
+Croatia,2016,ethnic,2192,5,151,,0,0,0,0,0.0
+Croatia,2016,no party affiliation,2197,0,151,,0,0,0,0,0.0
+Croatia,2016,one seat,2295,2,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatski demokratski savez Slavonije i Baranje,2135,1,151,2135.0,1,1,0,0,0.006622516556291391
+Croatia,2016,Hrvatska demokratska zajednica,276,61,151,276.0,1,1,0,1,0.40397350993377484
+Croatia,2016,Hrvatska narodna stranka – Liberalni demokrati,1384,9,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska seljačka stranka,1465,5,151,,0,0,0,0,0.0
+Croatia,2016,Hrvatska stranka umirovljenika,2134,1,151,,0,0,0,0,0.0
+Croatia,2016,Istarski demokratski sabor,1627,3,151,,0,0,0,0,0.0
+Croatia,2016,Milan Bandić 365 – Stranka rada i solidarnosti,2628,2,151,2628.0,1,0,0,0,0.013245033112582781
+Croatia,2016,Most nezavisnih lista,2615,13,151,2615.0,1,1,0,0,0.08609271523178808
+Croatia,2016,Samostalna demokratska srpska stranka,2133,3,151,,0,0,0,0,0.0
+Croatia,2016,Socijaldemokratska partija Hrvatske,1493,39,151,,0,0,0,0,0.0
+Croatia,2016,Živi zid,2612,8,151,2612.0,1,0,0,1,0.052980132450331126
+Croatia,2016,ethnic,2192,5,151,,0,0,0,0,0.0
+Croatia,2016,one seat,2295,1,151,,0,0,0,0,0.0
+Croatia,2017,Hrvatski demokratski savez Slavonije i Baranje,2135,1,151,2135.0,1,1,0,0,0.006622516556291391
+Croatia,2017,Hrvatska demokratska zajednica,276,61,151,276.0,1,1,0,1,0.40397350993377484
+Croatia,2017,Hrvatska narodna stranka – Liberalni demokrati,1384,9,151,,0,0,0,0,0.0
+Croatia,2017,Hrvatska seljačka stranka,1465,5,151,,0,0,0,0,0.0
+Croatia,2017,Hrvatska stranka umirovljenika,2134,1,151,,0,0,0,0,0.0
+Croatia,2017,Istarski demokratski sabor,1627,3,151,,0,0,0,0,0.0
+Croatia,2017,Milan Bandić 365 – Stranka rada i solidarnosti,2628,2,151,2628.0,1,0,0,0,0.013245033112582781
+Croatia,2017,Most nezavisnih lista,2615,13,151,2615.0,1,1,0,0,0.08609271523178808
+Croatia,2017,Samostalna demokratska srpska stranka,2133,3,151,,0,0,0,0,0.0
+Croatia,2017,Socijaldemokratska partija Hrvatske,1493,39,151,,0,0,0,0,0.0
+Croatia,2017,Živi zid,2612,8,151,2612.0,1,0,0,1,0.052980132450331126
+Croatia,2017,ethnic,2192,5,151,,0,0,0,0,0.0
+Croatia,2017,one seat,2295,1,151,,0,0,0,0,0.0
+Croatia,2020,Domovinski pokret,2809,16,151,2809.0,1,1,0,1,0.10596026490066225
+Croatia,2020,Hrvatska demokratska zajednica,276,66,151,276.0,1,1,0,1,0.4370860927152318
+Croatia,2020,Hrvatska narodna stranka – Liberalni demokrati,1384,1,151,,0,0,0,0,0.0
+Croatia,2020,Možemo! – politička platforma,2810,7,151,2810.0,1,0,1,0,0.046357615894039736
+Croatia,2020,Most nezavisnih lista,2615,8,151,2615.0,1,1,0,0,0.052980132450331126
+Croatia,2020,Narodna stranka – Reformisti,2614,1,151,,0,0,0,0,0.0
+Croatia,2020,Pametno,2772,3,151,,0,0,0,0,0.0
+Croatia,2020,Samostalna demokratska srpska stranka,2133,3,151,,0,0,0,0,0.0
+Croatia,2020,Socijaldemokratska partija Hrvatske,1493,41,151,,0,0,0,0,0.0
+Croatia,2020,ethnic,2192,5,151,,0,0,0,0,0.0
+Hungary,2018,Demokratikus Koalíció,1970,9,199,,0,0,0,0,0.0
+Hungary,2018,Együtt – A Korszakváltók Pártja,2318,1,199,,0,0,0,0,0.0
+Hungary,2018,Független Kisgazda Párt,870,1,199,870.0,1,1,0,0,0.005025125628140704
+Hungary,2018,Fidesz – Magyar Polgári Szövetség,921,117,199,921.0,1,1,0,1,0.5879396984924623
+Hungary,2018,Jobbik Magyarországért Mozgalom,600,26,199,600.0,1,1,0,1,0.1306532663316583
+Hungary,2018,Kereszténydemokrata Néppárt,434,16,199,,0,0,0,0,0.0
+Hungary,2018,Lehet Más a Politika,403,8,199,,0,0,0,0,0.0
+Hungary,2018,Magyarországi Németek Országos Önkormányzata,2908,1,199,,0,0,0,0,0.0
+Hungary,2018,Magyar Szocialista Párt,1591,17,199,,0,0,0,0,0.0
+Hungary,2018,Párbeszéd Magyarországért,2349,3,199,,0,0,0,0,0.0
+Hungary,2022,Demokratikus Koalíció,1970,15,199,,0,0,0,0,0.0
+Hungary,2022,Fidesz – Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,437,0,199,,0,0,0,0,0.0
+Hungary,2022,Fidesz – Magyar Polgári Szövetség,921,117,199,921.0,1,1,0,1,0.5879396984924623
+Hungary,2022,Jobbik Magyarországért Mozgalom,600,10,199,600.0,1,1,0,1,0.05025125628140704
+Hungary,2022,Kereszténydemokrata Néppárt,434,18,199,,0,0,0,0,0.0
+Hungary,2022,Lehet Más a Politika,403,5,199,,0,0,0,0,0.0
+Hungary,2022,Mi Hazánk Mozgalom,2745,6,199,2745.0,0,1,0,1,0.0
+Hungary,2022,Momentum Mozgalom,2659,10,199,,0,0,0,0,0.0
+Hungary,2022,Magyarországi Németek Országos Önkormányzata,2908,1,199,,0,0,0,0,0.0
+Hungary,2022,Magyar Szocialista Párt,1591,10,199,,0,0,0,0,0.0
+Hungary,2022,Párbeszéd Magyarországért,2349,6,199,,0,0,0,0,0.0
+Hungary,2022,független,1617,1,199,,0,0,0,0,0.0
+Ireland,2016,Daonlathaigh Shóisialta,2619,3,158,,0,0,0,0,0.0
+Ireland,2016,Fianna Fáil,280,44,158,,0,0,0,0,0.0
+Ireland,2016,Fine Gael,1393,50,158,,0,0,0,0,0.0
+Ireland,2016,Green Party  – Comhaontas Glas,1573,2,158,,0,0,0,0,0.0
+Ireland,2016,Independent Alliance,2622,6,158,,0,0,0,0,0.0
+Ireland,2016,Independents 4 Change,2621,4,158,,0,0,0,0,0.0
+Ireland,2016,Labour Party,318,7,158,,0,0,0,0,0.0
+Ireland,2016,Sinn Féin,2217,23,158,2217.0,1,0,0,1,0.14556962025316456
+Ireland,2016,Socialist Party,1014,6,158,1014.0,0,0,1,1,0.0
+Ireland,2016,no party affiliation,30,12,158,,0,0,0,0,0.0
+Ireland,2016,one seat,2298,1,158,,0,0,0,0,0.0
+Ireland,2017,Daonlathaigh Shóisialta,2619,3,158,,0,0,0,0,0.0
+Ireland,2017,Fianna Fáil,280,44,158,,0,0,0,0,0.0
+Ireland,2017,Fine Gael,1393,50,158,,0,0,0,0,0.0
+Ireland,2017,Green Party  – Comhaontas Glas,1573,2,158,,0,0,0,0,0.0
+Ireland,2017,Independent Alliance,2622,6,158,,0,0,0,0,0.0
+Ireland,2017,Independents 4 Change,2621,4,158,,0,0,0,0,0.0
+Ireland,2017,Labour Party,318,7,158,,0,0,0,0,0.0
+Ireland,2017,Sinn Féin,2217,23,158,2217.0,1,0,0,1,0.14556962025316456
+Ireland,2017,Socialist Party,1014,6,158,1014.0,0,0,1,1,0.0
+Ireland,2017,no party affiliation,30,12,158,,0,0,0,0,0.0
+Ireland,2017,one seat,2298,1,158,,0,0,0,0,0.0
+Ireland,2020,Aontú,2795,1,160,,0,0,0,0,0.0
+Ireland,2020,Dlúthphartíocht – Pobal Roimh Bhrabús,2776,5,160,,0,0,0,0,0.0
+Ireland,2020,Daonlathaigh Shóisialta,2619,6,160,,0,0,0,0,0.0
+Ireland,2020,Fianna Fáil,280,38,160,,0,0,0,0,0.0
+Ireland,2020,Fine Gael,1393,35,160,,0,0,0,0,0.0
+Ireland,2020,Green Party  – Comhaontas Glas,1573,12,160,,0,0,0,0,0.0
+Ireland,2020,Independent Alliance,2622,0,160,,0,0,0,0,0.0
+Ireland,2020,Independents 4 Change,2621,1,160,,0,0,0,0,0.0
+Ireland,2020,Labour Party,318,6,160,,0,0,0,0,0.0
+Ireland,2020,Sinn Féin,2217,37,160,2217.0,1,0,0,1,0.23125
+Ireland,2020,no party affiliation,30,19,160,,0,0,0,0,0.0
+Ireland,2020,Aontú,2795,1,160,,0,0,0,0,0.0
+Ireland,2020,Dlúthphartíocht – Pobal Roimh Bhrabús,2776,5,160,,0,0,0,0,0.0
+Ireland,2020,Daonlathaigh Shóisialta,2619,6,160,,0,0,0,0,0.0
+Ireland,2020,Fianna Fáil,280,38,160,,0,0,0,0,0.0
+Ireland,2020,Fine Gael,1393,35,160,,0,0,0,0,0.0
+Ireland,2020,Green Party  – Comhaontas Glas,1573,12,160,,0,0,0,0,0.0
+Ireland,2020,Independents 4 Change,2621,1,160,,0,0,0,0,0.0
+Ireland,2020,Labour Party,318,6,160,,0,0,0,0,0.0
+Ireland,2020,Sinn Féin,2217,37,160,2217.0,1,0,0,1,0.23125
+Ireland,2020,no party affiliation,30,19,160,,0,0,0,0,0.0
+Ireland,2022,Aontú,2795,1,160,,0,0,0,0,0.0
+Ireland,2022,Dlúthphartíocht – Pobal Roimh Bhrabús,2776,5,160,,0,0,0,0,0.0
+Ireland,2022,Daonlathaigh Shóisialta,2619,6,160,,0,0,0,0,0.0
+Ireland,2022,Fianna Fáil,280,38,160,,0,0,0,0,0.0
+Ireland,2022,Fine Gael,1393,35,160,,0,0,0,0,0.0
+Ireland,2022,Green Party  – Comhaontas Glas,1573,12,160,,0,0,0,0,0.0
+Ireland,2022,Independents 4 Change,2621,1,160,,0,0,0,0,0.0
+Ireland,2022,Labour Party,318,6,160,,0,0,0,0,0.0
+Ireland,2022,Sinn Féin,2217,37,160,2217.0,1,0,0,1,0.23125
+Ireland,2022,no party affiliation,30,19,160,,0,0,0,0,0.0
+Iceland,2016,Björt framtíð,2204,6,63,,0,0,0,0,0.0
+Iceland,2016,Framsóknarflokkurinn,1455,19,63,1455.0,1,0,0,1,0.30158730158730157
+Iceland,2016,Vinstrihreyfingin – grænt framboð,210,7,63,,0,0,0,0,0.0
+Iceland,2016,Pírata,2205,3,63,,0,0,0,0,0.0
+Iceland,2016,Samfylkingin,1006,9,63,,0,0,0,0,0.0
+Iceland,2016,Sjálfstæðisflokkurinn,1342,19,63,,0,0,0,0,0.0
+Iceland,2017,Björt framtíð,2204,4,63,,0,0,0,0,0.0
+Iceland,2017,Framsóknarflokkurinn,1455,8,63,1455.0,1,0,0,1,0.12698412698412698
+Iceland,2017,Vinstrihreyfingin – grænt framboð,210,10,63,,0,0,0,0,0.0
+Iceland,2017,Pírata,2205,10,63,,0,0,0,0,0.0
+Iceland,2017,Samfylkingin,1006,3,63,,0,0,0,0,0.0
+Iceland,2017,Sjálfstæðisflokkurinn,1342,21,63,,0,0,0,0,0.0
+Iceland,2017,Viðreisn,2633,7,63,,0,0,0,0,0.0
+Iceland,2017,Framsóknarflokkurinn,1455,8,63,1455.0,1,0,0,1,0.12698412698412698
+Iceland,2017,Flokkur fólksins,2632,4,63,2632.0,1,0,0,1,0.06349206349206349
+Iceland,2017,Vinstrihreyfingin – grænt framboð,210,11,63,,0,0,0,0,0.0
+Iceland,2017,Miðflokkurinn,2655,7,63,2655.0,1,0,0,1,0.1111111111111111
+Iceland,2017,Pírata,2205,6,63,,0,0,0,0,0.0
+Iceland,2017,Samfylkingin,1006,7,63,,0,0,0,0,0.0
+Iceland,2017,Sjálfstæðisflokkurinn,1342,16,63,,0,0,0,0,0.0
+Iceland,2017,Viðreisn,2633,4,63,,0,0,0,0,0.0
+Iceland,2021,Framsóknarflokkurinn,1455,13,63,1455.0,1,0,0,1,0.20634920634920634
+Iceland,2021,Flokkur fólksins,2632,6,63,2632.0,1,0,0,1,0.09523809523809523
+Iceland,2021,Vinstrihreyfingin – grænt framboð,210,8,63,,0,0,0,0,0.0
+Iceland,2021,Miðflokkurinn,2655,3,63,2655.0,1,0,0,1,0.047619047619047616
+Iceland,2021,Pírata,2205,6,63,,0,0,0,0,0.0
+Iceland,2021,Samfylkingin,1006,6,63,,0,0,0,0,0.0
+Iceland,2021,Sjálfstæðisflokkurinn,1342,16,63,,0,0,0,0,0.0
+Iceland,2021,Viðreisn,2633,5,63,,0,0,0,0,0.0
+Israel,2015,Kulanu,2410,10,120,,0,0,0,0,0.0
+Israel,2015,Likud,678,30,120,,0,0,0,0,0.0
+Israel,2015,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,8,120,,0,0,0,0,0.0
+Israel,2015,HaMa'arakh | HaAvoda,244,24,120,,0,0,0,0,0.0
+Israel,2015,Meretz,1419,5,120,,0,0,0,0,0.0
+Israel,2015,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,13,120,,0,0,0,0,0.0
+Israel,2015,Shomrei Sfarad,788,7,120,,0,0,0,0,0.0
+Israel,2015,Yesh Atid,2321,11,120,,0,0,0,0,0.0
+Israel,2015,Yisrael Beiteinu,1816,6,120,,0,0,0,0,0.0
+Israel,2015,Yahadut HaTora HaMeuhedet,1303,6,120,,0,0,0,0,0.0
+Israel,2016,Kulanu,2410,10,120,,0,0,0,0,0.0
+Israel,2016,Likud,678,30,120,,0,0,0,0,0.0
+Israel,2016,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,8,120,,0,0,0,0,0.0
+Israel,2016,HaMa'arakh | HaAvoda,244,24,120,,0,0,0,0,0.0
+Israel,2016,Meretz,1419,5,120,,0,0,0,0,0.0
+Israel,2016,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,13,120,,0,0,0,0,0.0
+Israel,2016,Shomrei Sfarad,788,7,120,,0,0,0,0,0.0
+Israel,2016,Yesh Atid,2321,11,120,,0,0,0,0,0.0
+Israel,2016,Yisrael Beiteinu,1816,6,120,,0,0,0,0,0.0
+Israel,2016,Yahadut HaTora HaMeuhedet,1303,6,120,,0,0,0,0,0.0
+Israel,2018,Kulanu,2410,10,120,,0,0,0,0,0.0
+Israel,2018,Likud,678,30,120,,0,0,0,0,0.0
+Israel,2018,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,8,120,,0,0,0,0,0.0
+Israel,2018,HaMa'arakh | HaAvoda,244,24,120,,0,0,0,0,0.0
+Israel,2018,Meretz,1419,5,120,,0,0,0,0,0.0
+Israel,2018,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,13,120,,0,0,0,0,0.0
+Israel,2018,Shomrei Sfarad,788,7,120,,0,0,0,0,0.0
+Israel,2018,Yesh Atid,2321,11,120,,0,0,0,0,0.0
+Israel,2018,Yisrael Beiteinu,1816,5,120,,0,0,0,0,0.0
+Israel,2018,Yahadut HaTora HaMeuhedet,1303,6,120,,0,0,0,0,0.0
+Israel,2018,no party affiliation,123,1,120,,0,0,0,0,0.0
+Israel,2019,Kahol Lavan,2725,35,120,,0,0,0,0,0.0
+Israel,2019,Kulanu,2410,4,120,,0,0,0,0,0.0
+Israel,2019,Likud,678,35,120,,0,0,0,0,0.0
+Israel,2019,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,0,120,,0,0,0,0,0.0
+Israel,2019,HaMa'arakh | HaAvoda,244,6,120,,0,0,0,0,0.0
+Israel,2019,Meretz,1419,4,120,,0,0,0,0,0.0
+Israel,2019,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,4,120,,0,0,0,0,0.0
+Israel,2019,Rakah | Hadash,732,6,120,,0,0,0,0,0.0
+Israel,2019,Shomrei Sfarad,788,8,120,,0,0,0,0,0.0
+Israel,2019,Yamina,2726,5,120,,0,0,0,0,0.0
+Israel,2019,Yisrael Beiteinu,1816,5,120,,0,0,0,0,0.0
+Israel,2019,Yahadut HaTora HaMeuhedet,1303,8,120,,0,0,0,0,0.0
+Israel,2019,Kahol Lavan,2725,33,120,,0,0,0,0,0.0
+Israel,2019,Kulanu,2410,0,120,,0,0,0,0,0.0
+Israel,2019,Likud,678,32,120,,0,0,0,0,0.0
+Israel,2019,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,0,120,,0,0,0,0,0.0
+Israel,2019,HaMa'arakh | HaAvoda,244,6,120,,0,0,0,0,0.0
+Israel,2019,Meretz,1419,5,120,,0,0,0,0,0.0
+Israel,2019,Rakah | Hadash,732,13,120,,0,0,0,0,0.0
+Israel,2019,Shomrei Sfarad,788,9,120,,0,0,0,0,0.0
+Israel,2019,Yamina,2726,7,120,,0,0,0,0,0.0
+Israel,2019,Yisrael Beiteinu,1816,8,120,,0,0,0,0,0.0
+Israel,2019,Yahadut HaTora HaMeuhedet,1303,7,120,,0,0,0,0,0.0
+Israel,2020,Gesher,2787,0,120,,0,0,0,0,0.0
+Israel,2020,Kahol Lavan,2725,33,120,,0,0,0,0,0.0
+Israel,2020,Likud,678,36,120,,0,0,0,0,0.0
+Israel,2020,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,214,0,120,,0,0,0,0,0.0
+Israel,2020,HaMa'arakh | HaAvoda,244,7,120,,0,0,0,0,0.0
+Israel,2020,Rakah | Hadash,732,15,120,,0,0,0,0,0.0
+Israel,2020,Shomrei Sfarad,788,9,120,,0,0,0,0,0.0
+Israel,2020,Yamina,2726,6,120,,0,0,0,0,0.0
+Israel,2020,Yisrael Beiteinu,1816,7,120,,0,0,0,0,0.0
+Israel,2020,Yahadut HaTora HaMeuhedet,1303,7,120,,0,0,0,0,0.0
+Israel,2021,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,1357,6,120,,0,0,0,0,0.0
+Israel,2021,Kahol Lavan,2725,8,120,,0,0,0,0,0.0
+Israel,2021,Likud,678,30,120,,0,0,0,0,0.0
+Israel,2021,HaMa'arakh | HaAvoda,244,7,120,,0,0,0,0,0.0
+Israel,2021,Meretz,1419,6,120,,0,0,0,0,0.0
+Israel,2021,Tikva Hadasha,2835,6,120,,0,0,0,0,0.0
+Israel,2021,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,4,120,,0,0,0,0,0.0
+Israel,2021,Rakah | Hadash,732,6,120,,0,0,0,0,0.0
+Israel,2021,Shomrei Sfarad,788,9,120,,0,0,0,0,0.0
+Israel,2021,Yamina,2726,7,120,,0,0,0,0,0.0
+Israel,2021,Yesh Atid,2321,17,120,,0,0,0,0,0.0
+Israel,2021,Yisrael Beiteinu,1816,7,120,,0,0,0,0,0.0
+Israel,2021,Yahadut HaTora HaMeuhedet,1303,7,120,,0,0,0,0,0.0
+Israel,2022,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,1357,6,120,,0,0,0,0,0.0
+Israel,2022,Kahol Lavan,2725,8,120,,0,0,0,0,0.0
+Israel,2022,Likud,678,30,120,,0,0,0,0,0.0
+Israel,2022,HaMa'arakh | HaAvoda,244,7,120,,0,0,0,0,0.0
+Israel,2022,Meretz,1419,6,120,,0,0,0,0,0.0
+Israel,2022,Tikva Hadasha,2835,6,120,,0,0,0,0,0.0
+Israel,2022,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,4,120,,0,0,0,0,0.0
+Israel,2022,Rakah | Hadash,732,6,120,,0,0,0,0,0.0
+Israel,2022,Shomrei Sfarad,788,9,120,,0,0,0,0,0.0
+Israel,2022,Yamina,2726,7,120,,0,0,0,0,0.0
+Israel,2022,Yesh Atid,2321,17,120,,0,0,0,0,0.0
+Israel,2022,Yisrael Beiteinu,1816,7,120,,0,0,0,0,0.0
+Israel,2022,Yahadut HaTora HaMeuhedet,1303,7,120,,0,0,0,0,0.0
+Israel,2022,Agudat Yisrael,265,0,120,,0,0,0,0,0.0
+Israel,2022,Degel HaTorah,249,0,120,,0,0,0,0,0.0
+Israel,2022,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,1357,14,120,,0,0,0,0,0.0
+Israel,2022,Kahol Lavan,2725,12,120,,0,0,0,0,0.0
+Israel,2022,Likud,678,32,120,,0,0,0,0,0.0
+Israel,2022,HaMa'arakh | HaAvoda,244,4,120,,0,0,0,0,0.0
+Israel,2022,Otzma Leyisrael,2322,0,120,,0,0,0,0,0.0
+Israel,2022,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,1846,5,120,,0,0,0,0,0.0
+Israel,2022,Rakah | Hadash,732,5,120,,0,0,0,0,0.0
+Israel,2022,Shomrei Sfarad,788,11,120,,0,0,0,0,0.0
+Israel,2022,Yesh Atid,2321,24,120,,0,0,0,0,0.0
+Israel,2022,Yisrael Beiteinu,1816,6,120,,0,0,0,0,0.0
+Israel,2022,Yahadut HaTora HaMeuhedet,1303,7,120,,0,0,0,0,0.0
+Italy,2016,Associativo Italiani all'Estero,927,2,630,,0,0,0,0,0.0
+Italy,2016,Centro Democratico,2153,6,630,,0,0,0,0,0.0
+Italy,2016,Forza Italia – Il Popolo della Libertà,596,69,630,596.0,1,0,0,1,0.10952380952380952
+Italy,2016,Fratelli d'Italia,2154,9,630,2154.0,1,1,0,1,0.014285714285714285
+Italy,2016,Lega Nord,1436,18,630,1436.0,1,1,0,1,0.02857142857142857
+Italy,2016,Movimento 5 Stelle,2155,109,630,2155.0,1,0,0,1,0.173015873015873
+Italy,2016,Nuovo Centrodestra | Alternativa Popolare,2268,29,630,,0,0,0,0,0.0
+Italy,2016,Partito Democratico,382,297,630,,0,0,0,0,0.0
+Italy,2016,Sinistra,465,37,630,465.0,0,0,1,0,0.0
+Italy,2016,Scelta Civica,2156,39,630,,0,0,0,0,0.0
+Italy,2016,Südtiroler Volkspartei,1030,5,630,,0,0,0,0,0.0
+Italy,2016,Unione / Centro,226,8,630,,0,0,0,0,0.0
+Italy,2016,Unione Sudamericana Emigrati Italiani,2671,1,630,,0,0,0,0,0.0
+Italy,2016,Union Valdôtaine,974,1,630,,0,0,0,0,0.0
+Italy,2018,+Europa,2737,2,630,,0,0,0,0,0.0
+Italy,2018,Associativo Italiani all'Estero,927,1,630,,0,0,0,0,0.0
+Italy,2018,Centro Democratico,2153,1,630,,0,0,0,0,0.0
+Italy,2018,Forza Italia – Il Popolo della Libertà,596,106,630,596.0,1,0,0,1,0.16825396825396827
+Italy,2018,Fratelli d'Italia,2154,31,630,2154.0,1,1,0,1,0.049206349206349205
+Italy,2018,Italia dei Valori,693,2,630,693.0,1,0,0,0,0.0031746031746031746
+Italy,2018,Lega Nord,1436,124,630,1436.0,1,1,0,1,0.19682539682539682
+Italy,2018,Movimento 5 Stelle,2155,227,630,2155.0,1,0,0,1,0.3603174603174603
+Italy,2018,Presidente del Consiglio dei ministri,2001,0,630,,0,0,0,0,0.0
+Italy,2018,Partito Democratico,382,112,630,,0,0,0,0,0.0
+Italy,2018,Sinistra,465,14,630,465.0,0,0,1,0,0.0
+Italy,2018,Südtiroler Volkspartei,1030,4,630,,0,0,0,0,0.0
+Italy,2018,Unione / Centro,226,4,630,,0,0,0,0,0.0
+Italy,2018,Unione Sudamericana Emigrati Italiani,2671,1,630,,0,0,0,0,0.0
+Italy,2018,one seat,2302,1,630,,0,0,0,0,0.0
+Italy,2019,+Europa,2737,2,630,,0,0,0,0,0.0
+Italy,2019,Associativo Italiani all'Estero,927,1,630,,0,0,0,0,0.0
+Italy,2019,Centro Democratico,2153,1,630,,0,0,0,0,0.0
+Italy,2019,Forza Italia – Il Popolo della Libertà,596,106,630,596.0,1,0,0,1,0.16825396825396827
+Italy,2019,Fratelli d'Italia,2154,31,630,2154.0,1,1,0,1,0.049206349206349205
+Italy,2019,Italia Viva,2794,0,630,,0,0,0,0,0.0
+Italy,2019,Italia dei Valori,693,2,630,693.0,1,0,0,0,0.0031746031746031746
+Italy,2019,Lega Nord,1436,124,630,1436.0,1,1,0,1,0.19682539682539682
+Italy,2019,Movimento 5 Stelle,2155,227,630,2155.0,1,0,0,1,0.3603174603174603
+Italy,2019,Presidente del Consiglio dei ministri,2001,0,630,,0,0,0,0,0.0
+Italy,2019,Partito Democratico,382,112,630,,0,0,0,0,0.0
+Italy,2019,Sinistra,465,14,630,465.0,0,0,1,0,0.0
+Italy,2019,Südtiroler Volkspartei,1030,4,630,,0,0,0,0,0.0
+Italy,2019,Unione / Centro,226,4,630,,0,0,0,0,0.0
+Italy,2019,Unione Sudamericana Emigrati Italiani,2671,1,630,,0,0,0,0,0.0
+Italy,2019,one seat,2302,1,630,,0,0,0,0,0.0
+Italy,2021,+Europa,2737,2,630,,0,0,0,0,0.0
+Italy,2021,Associativo Italiani all'Estero,927,1,630,,0,0,0,0,0.0
+Italy,2021,Centro Democratico,2153,1,630,,0,0,0,0,0.0
+Italy,2021,Forza Italia – Il Popolo della Libertà,596,106,630,596.0,1,0,0,1,0.16825396825396827
+Italy,2021,Fratelli d'Italia,2154,31,630,2154.0,1,1,0,1,0.049206349206349205
+Italy,2021,Italia Viva,2794,25,630,,0,0,0,0,0.0
+Italy,2021,Italia dei Valori,693,2,630,693.0,1,0,0,0,0.0031746031746031746
+Italy,2021,Lega Nord,1436,124,630,1436.0,1,1,0,1,0.19682539682539682
+Italy,2021,Movimento 5 Stelle,2155,227,630,2155.0,1,0,0,1,0.3603174603174603
+Italy,2021,Presidente del Consiglio dei ministri,2001,0,630,,0,0,0,0,0.0
+Italy,2021,Partito Democratico,382,87,630,,0,0,0,0,0.0
+Italy,2021,Sinistra,465,14,630,465.0,0,0,1,0,0.0
+Italy,2021,Südtiroler Volkspartei,1030,4,630,,0,0,0,0,0.0
+Italy,2021,Unione / Centro,226,4,630,,0,0,0,0,0.0
+Italy,2021,Unione Sudamericana Emigrati Italiani,2671,1,630,,0,0,0,0,0.0
+Italy,2021,one seat,2302,1,630,,0,0,0,0,0.0
+Italy,2022,+Europa,2737,2,630,,0,0,0,0,0.0
+Italy,2022,Associativo Italiani all'Estero,927,1,630,,0,0,0,0,0.0
+Italy,2022,Centro Democratico,2153,1,630,,0,0,0,0,0.0
+Italy,2022,Forza Italia – Il Popolo della Libertà,596,106,630,596.0,1,0,0,1,0.16825396825396827
+Italy,2022,Fratelli d'Italia,2154,31,630,2154.0,1,1,0,1,0.049206349206349205
+Italy,2022,Italia Viva,2794,25,630,,0,0,0,0,0.0
+Italy,2022,Italia dei Valori,693,2,630,693.0,1,0,0,0,0.0031746031746031746
+Italy,2022,Insieme per il Futuro,2861,50,630,,0,0,0,0,0.0
+Italy,2022,Lega Nord,1436,124,630,1436.0,1,1,0,1,0.19682539682539682
+Italy,2022,Movimento 5 Stelle,2155,177,630,2155.0,1,0,0,1,0.28095238095238095
+Italy,2022,Presidente del Consiglio dei ministri,2001,0,630,,0,0,0,0,0.0
+Italy,2022,Partito Democratico,382,87,630,,0,0,0,0,0.0
+Italy,2022,Sinistra,465,14,630,465.0,0,0,1,0,0.0
+Italy,2022,Südtiroler Volkspartei,1030,4,630,,0,0,0,0,0.0
+Italy,2022,Unione / Centro,226,4,630,,0,0,0,0,0.0
+Italy,2022,Unione Sudamericana Emigrati Italiani,2671,1,630,,0,0,0,0,0.0
+Italy,2022,one seat,2302,1,630,,0,0,0,0,0.0
+Italy,2022,+Europa,2737,3,400,,0,0,0,0,0.0
+Italy,2022,Forza Italia – Il Popolo della Libertà,596,44,400,596.0,1,0,0,1,0.11
+Italy,2022,Fratelli d'Italia,2154,118,400,2154.0,1,1,0,1,0.295
+Italy,2022,Italia Viva,2794,21,400,,0,0,0,0,0.0
+Italy,2022,Lega Nord,1436,66,400,1436.0,1,1,0,1,0.165
+Italy,2022,Movimento 5 Stelle,2155,52,400,2155.0,1,0,0,1,0.13
+Italy,2022,Partito Democratico,382,69,400,,0,0,0,0,0.0
+Italy,2022,Partito | Socialisti Democratici Italiani,1278,11,400,,0,0,0,0,0.0
+Italy,2022,Südtiroler Volkspartei,1030,3,400,,0,0,0,0,0.0
+Italy,2022,Unione / Centro,226,9,400,,0,0,0,0,0.0
+Italy,2022,diversi,825,3,400,,0,0,0,0,0.0
+Italy,2022,one seat,2302,1,400,,0,0,0,0,0.0
+Japan,2017,Rikken Minshutō,2657,54,465,,0,0,0,0,0.0
+Japan,2017,Nihon Kyōsan-tō,1540,12,465,,0,0,0,0,0.0
+Japan,2017,Nippon Ishin no Kai,2136,11,465,,0,0,0,0,0.0
+Japan,2017,Nihon Shakai-tō,940,2,465,,0,0,0,0,0.0
+Japan,2017,Kōmeitō,837,29,465,,0,0,0,0,0.0
+Japan,2017,Jiyū Minshutō,1193,281,465,,0,0,0,0,0.0
+Japan,2017,Kibō no Tō,2656,50,465,,0,0,0,0,0.0
+Japan,2017,no party affiliation,905,26,465,,0,0,0,0,0.0
+Japan,2020,Rikken Minshutō,2657,54,465,,0,0,0,0,0.0
+Japan,2020,Nihon Kyōsan-tō,1540,12,465,,0,0,0,0,0.0
+Japan,2020,Nippon Ishin no Kai,2136,11,465,,0,0,0,0,0.0
+Japan,2020,Nihon Shakai-tō,940,2,465,,0,0,0,0,0.0
+Japan,2020,Kōmeitō,837,29,465,,0,0,0,0,0.0
+Japan,2020,Jiyū Minshutō,1193,281,465,,0,0,0,0,0.0
+Japan,2020,Kibō no Tō,2656,50,465,,0,0,0,0,0.0
+Japan,2020,no party affiliation,905,26,465,,0,0,0,0,0.0
+Japan,2021,Rikken Minshutō,2657,54,465,,0,0,0,0,0.0
+Japan,2021,Nihon Kyōsan-tō,1540,12,465,,0,0,0,0,0.0
+Japan,2021,Nippon Ishin no Kai,2136,11,465,,0,0,0,0,0.0
+Japan,2021,Nihon Shakai-tō,940,2,465,,0,0,0,0,0.0
+Japan,2021,Kōmeitō,837,29,465,,0,0,0,0,0.0
+Japan,2021,Jiyū Minshutō,1193,281,465,,0,0,0,0,0.0
+Japan,2021,Kibō no Tō,2656,50,465,,0,0,0,0,0.0
+Japan,2021,no party affiliation,905,26,465,,0,0,0,0,0.0
+Japan,2021,Rikken Minshutō,2657,39,176,,0,0,0,0,0.0
+Japan,2021,Kokumin Minshu-tō,2827,5,176,,0,0,0,0,0.0
+Japan,2021,Nihon Kyōsan-tō,1540,9,176,,0,0,0,0,0.0
+Japan,2021,Nippon Ishin no Kai,2826,25,176,,0,0,0,0,0.0
+Japan,2021,Kōmeitō,837,23,176,,0,0,0,0,0.0
+Japan,2021,Jiyū Minshutō,1193,72,176,,0,0,0,0,0.0
+Japan,2021,Reiwa Shinsengumi,2828,3,176,,0,0,0,0,0.0
+Lithuania,2016,Darbo partija,581,2,141,581.0,1,0,0,0,0.014184397163120567
+Lithuania,2016,Lietuvos Centro Partija,2635,1,141,2635.0,1,0,0,1,0.0070921985815602835
+Lithuania,2016,Lietuvos lenkų rinkimų akcija,28,8,141,,0,0,0,0,0.0
+Lithuania,2016,Lietuvos Respublikos liberalų sąjūdis,482,14,141,,0,0,0,0,0.0
+Lithuania,2016,Lietuvos socialdemokratų partija,1277,17,141,,0,0,0,0,0.0
+Lithuania,2016,Lietuvos valstiečių sąjunga,191,54,141,,0,0,0,0,0.0
+Lithuania,2016,Lietuvos žalioji partija,21,1,141,,0,0,0,0,0.0
+Lithuania,2016,Tėvynės sąjunga,1045,31,141,,0,0,0,0,0.0
+Lithuania,2016,Tvarka ir teisingumas – Liberalų demokratų partija,1421,8,141,1421.0,1,0,0,1,0.05673758865248227
+Lithuania,2016,no party affiliation,58,4,141,,0,0,0,0,0.0
+Lithuania,2016,one seat,652,1,141,,0,0,0,0,0.0
+Lithuania,2017,Darbo partija,581,2,141,581.0,1,0,0,0,0.014184397163120567
+Lithuania,2017,Lietuvos Centro Partija,2635,1,141,2635.0,1,0,0,1,0.0070921985815602835
+Lithuania,2017,Lietuvos lenkų rinkimų akcija,28,8,141,,0,0,0,0,0.0
+Lithuania,2017,Lietuvos Respublikos liberalų sąjūdis,482,14,141,,0,0,0,0,0.0
+Lithuania,2017,Lietuvos socialdemokratų darbo partija,2763,12,141,,0,0,0,0,0.0
+Lithuania,2017,Lietuvos socialdemokratų partija,1277,5,141,,0,0,0,0,0.0
+Lithuania,2017,Lietuvos valstiečių sąjunga,191,54,141,,0,0,0,0,0.0
+Lithuania,2017,Lietuvos žalioji partija,21,1,141,,0,0,0,0,0.0
+Lithuania,2017,Tėvynės sąjunga,1045,31,141,,0,0,0,0,0.0
+Lithuania,2017,Tvarka ir teisingumas – Liberalų demokratų partija,1421,8,141,1421.0,1,0,0,1,0.05673758865248227
+Lithuania,2017,no party affiliation,58,4,141,,0,0,0,0,0.0
+Lithuania,2017,one seat,652,1,141,,0,0,0,0,0.0
+Lithuania,2019,Darbo partija,581,2,141,581.0,1,0,0,0,0.014184397163120567
+Lithuania,2019,Lietuvos Centro Partija,2635,1,141,2635.0,1,0,0,1,0.0070921985815602835
+Lithuania,2019,Lietuvos lenkų rinkimų akcija,28,8,141,,0,0,0,0,0.0
+Lithuania,2019,Lietuvos Respublikos liberalų sąjūdis,482,14,141,,0,0,0,0,0.0
+Lithuania,2019,Lietuvos socialdemokratų darbo partija,2763,12,141,,0,0,0,0,0.0
+Lithuania,2019,Lietuvos socialdemokratų partija,1277,5,141,,0,0,0,0,0.0
+Lithuania,2019,Lietuvos valstiečių sąjunga,191,54,141,,0,0,0,0,0.0
+Lithuania,2019,Lietuvos žalioji partija,21,1,141,,0,0,0,0,0.0
+Lithuania,2019,Tėvynės sąjunga,1045,31,141,,0,0,0,0,0.0
+Lithuania,2019,Tvarka ir teisingumas – Liberalų demokratų partija,1421,8,141,1421.0,1,0,0,1,0.05673758865248227
+Lithuania,2019,no party affiliation,58,4,141,,0,0,0,0,0.0
+Lithuania,2019,one seat,652,1,141,,0,0,0,0,0.0
+Lithuania,2020,Darbo partija,581,10,141,581.0,1,0,0,0,0.07092198581560284
+Lithuania,2020,Lietuvos lenkų rinkimų akcija,28,3,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos laisvės sąjunga (liberalai),2634,1,141,2634.0,0,1,0,1,0.0
+Lithuania,2020,Laisvės partija,2805,11,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos Respublikos liberalų sąjūdis,482,13,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos socialdemokratų darbo partija,2763,3,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos socialdemokratų partija,1277,13,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos valstiečių sąjunga,191,32,141,,0,0,0,0,0.0
+Lithuania,2020,Lietuvos žalioji partija,21,1,141,,0,0,0,0,0.0
+Lithuania,2020,Tėvynės sąjunga,1045,50,141,,0,0,0,0,0.0
+Lithuania,2020,no party affiliation,58,4,141,,0,0,0,0,0.0
+Luxembourg,2018,Aktiounskomitee Rente | Alternativ Demokratesch Reformpartei,1582,4,60,1582.0,1,1,0,1,0.06666666666666667
+Luxembourg,2018,Chrëschtlech Sozial Vollekspartei,1234,21,60,,0,0,0,0,0.0
+Luxembourg,2018,Déi Lénk,457,2,60,457.0,0,0,1,1,0.0
+Luxembourg,2018,Demokratesch Partei,967,12,60,,0,0,0,0,0.0
+Luxembourg,2018,Déi Gréng,310,9,60,,0,0,0,0,0.0
+Luxembourg,2018,Lëtzebuerger Sozialistesch Aarbechterpartei,701,10,60,,0,0,0,0,0.0
+Luxembourg,2018,Piratepartei Lëtzebuerg,2256,2,60,,0,0,0,0,0.0
+Latvia,2016,Latvijas Reģionu apvienība,2366,8,100,,0,0,0,0,0.0
+Latvia,2016,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,521,17,100,521.0,0,1,0,1,0.0
+Latvia,2016,No sirds Latvijai,2365,7,100,,0,0,0,0,0.0
+Latvia,2016,Saskaņas,1100,24,100,,0,0,0,0,0.0
+Latvia,2016,Vienotība,1666,23,100,,0,0,0,0,0.0
+Latvia,2016,Zaļo un Zemnieku savienība,466,21,100,,0,0,0,0,0.0
+Latvia,2018,Attīstībai/Par!,2878,13,100,,0,0,0,0,0.0
+Latvia,2018,Jaunā konservatīvā partija,2717,16,100,,0,0,0,0,0.0
+Latvia,2018,Kam pieder valsts?,2715,16,100,2715.0,1,0,0,1,0.16
+Latvia,2018,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,521,13,100,521.0,0,1,0,1,0.0
+Latvia,2018,Saskaņas,1100,23,100,,0,0,0,0,0.0
+Latvia,2018,Vienotība,1666,8,100,,0,0,0,0,0.0
+Latvia,2018,Zaļo un Zemnieku savienība,466,11,100,,0,0,0,0,0.0
+Latvia,2019,Attīstībai/Par!,2878,13,100,,0,0,0,0,0.0
+Latvia,2019,Jaunā konservatīvā partija,2717,16,100,,0,0,0,0,0.0
+Latvia,2019,Kam pieder valsts?,2715,16,100,2715.0,1,0,0,1,0.16
+Latvia,2019, Latvijas attīstībai,2392,0,100,,0,0,0,0,0.0
+Latvia,2019,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,521,13,100,521.0,0,1,0,1,0.0
+Latvia,2019,Saskaņas,1100,23,100,,0,0,0,0,0.0
+Latvia,2019,Vienotība,1666,8,100,,0,0,0,0,0.0
+Latvia,2019,Zaļo un Zemnieku savienība,466,11,100,,0,0,0,0,0.0
+Latvia,2022,Latvija pirmajā vietā,2876,9,100,,0,0,0,0,0.0
+Latvia,2022,Latvijas Reģionu apvienība,2366,0,100,,0,0,0,0,0.0
+Latvia,2022,Latvijas Zaļā partija,1001,15,100,,0,0,0,0,0.0
+Latvia,2022,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,521,13,100,521.0,0,1,0,1,0.0
+Latvia,2022,Progresīvie,2716,10,100,,0,0,0,0,0.0
+Latvia,2022,Stabilitātei!,2875,11,100,,0,0,0,0,0.0
+Latvia,2022,Vienotība,1666,26,100,,0,0,0,0,0.0
+Latvia,2022,Zaļo un Zemnieku savienība,466,16,100,,0,0,0,0,0.0
+Malta,2017,Partit Laburista,1003,37,67,,0,0,0,0,0.0
+Malta,2017,Partit Nazzjonalista,984,30,67,,0,0,0,0,0.0
+Malta,2020,Partit Laburista,1003,37,67,,0,0,0,0,0.0
+Malta,2020,Partit Nazzjonalista,984,30,67,,0,0,0,0,0.0
+Malta,2022,Partit Laburista,1003,44,79,,0,0,0,0,0.0
+Malta,2022,Partit Nazzjonalista,984,35,79,,0,0,0,0,0.0
+Netherlands,2017,50PLUS,2109,4,150,,0,0,0,0,0.0
+Netherlands,2017,Christen Democratisch Appèl,235,19,150,,0,0,0,0,0.0
+Netherlands,2017,ChristenUnie,1206,5,150,,0,0,0,0,0.0
+Netherlands,2017,Democraten 66,345,19,150,,0,0,0,0,0.0
+Netherlands,2017,Beweging DENK,2641,3,150,,0,0,0,0,0.0
+Netherlands,2017,Forum voor Democratie,2642,2,150,2642.0,1,1,0,1,0.013333333333333334
+Netherlands,2017,GroenLinks,756,14,150,,0,0,0,0,0.0
+Netherlands,2017,Partij voor de Vrijheid,1501,20,150,1501.0,1,1,0,1,0.13333333333333333
+Netherlands,2017,Partij van de Arbeid,742,9,150,,0,0,0,0,0.0
+Netherlands,2017,Partij voor de Dieren,990,5,150,,0,0,0,0,0.0
+Netherlands,2017,Staatkundig Gereformeerde Partij,1251,3,150,,0,0,0,0,0.0
+Netherlands,2017,Socialistiese Partij,357,14,150,357.0,1,0,1,1,0.09333333333333334
+Netherlands,2017,Volkspartij voor Vrijheid en Democratie,1409,33,150,,0,0,0,0,0.0
+Netherlands,2017,50PLUS,2109,4,150,,0,0,0,0,0.0
+Netherlands,2017,Christen Democratisch Appèl,235,19,150,,0,0,0,0,0.0
+Netherlands,2017,ChristenUnie,1206,5,150,,0,0,0,0,0.0
+Netherlands,2017,Democraten 66,345,19,150,,0,0,0,0,0.0
+Netherlands,2017,Beweging DENK,2641,3,150,,0,0,0,0,0.0
+Netherlands,2017,Forum voor Democratie,2642,2,150,2642.0,1,1,0,1,0.013333333333333334
+Netherlands,2017,GroenLinks,756,14,150,,0,0,0,0,0.0
+Netherlands,2017,Partij voor de Vrijheid,1501,20,150,1501.0,1,1,0,1,0.13333333333333333
+Netherlands,2017,Partij van de Arbeid,742,9,150,,0,0,0,0,0.0
+Netherlands,2017,Partij voor de Dieren,990,5,150,,0,0,0,0,0.0
+Netherlands,2017,Staatkundig Gereformeerde Partij,1251,3,150,,0,0,0,0,0.0
+Netherlands,2017,Socialistiese Partij,357,14,150,357.0,1,0,1,1,0.09333333333333334
+Netherlands,2017,Volkspartij voor Vrijheid en Democratie,1409,33,150,,0,0,0,0,0.0
+Netherlands,2021,50PLUS,2109,4,150,,0,0,0,0,0.0
+Netherlands,2021,Christen Democratisch Appèl,235,19,150,,0,0,0,0,0.0
+Netherlands,2021,ChristenUnie,1206,5,150,,0,0,0,0,0.0
+Netherlands,2021,Democraten 66,345,19,150,,0,0,0,0,0.0
+Netherlands,2021,Beweging DENK,2641,3,150,,0,0,0,0,0.0
+Netherlands,2021,Forum voor Democratie,2642,2,150,2642.0,1,1,0,1,0.013333333333333334
+Netherlands,2021,GroenLinks,756,14,150,,0,0,0,0,0.0
+Netherlands,2021,Partij voor de Vrijheid,1501,20,150,1501.0,1,1,0,1,0.13333333333333333
+Netherlands,2021,Partij van de Arbeid,742,9,150,,0,0,0,0,0.0
+Netherlands,2021,Partij voor de Dieren,990,5,150,,0,0,0,0,0.0
+Netherlands,2021,Staatkundig Gereformeerde Partij,1251,3,150,,0,0,0,0,0.0
+Netherlands,2021,Socialistiese Partij,357,14,150,357.0,1,0,1,1,0.09333333333333334
+Netherlands,2021,Volkspartij voor Vrijheid en Democratie,1409,33,150,,0,0,0,0,0.0
+Netherlands,2022,50PLUS,2109,1,150,,0,0,0,0,0.0
+Netherlands,2022,BoerBurgerBeweging,2824,1,150,2824.0,1,1,0,1,0.006666666666666667
+Netherlands,2022,Christen Democratisch Appèl,235,15,150,,0,0,0,0,0.0
+Netherlands,2022,ChristenUnie,1206,5,150,,0,0,0,0,0.0
+Netherlands,2022,Democraten 66,345,24,150,,0,0,0,0,0.0
+Netherlands,2022,Beweging DENK,2641,3,150,,0,0,0,0,0.0
+Netherlands,2022,Forum voor Democratie,2642,8,150,2642.0,1,1,0,1,0.05333333333333334
+Netherlands,2022,GroenLinks,756,8,150,,0,0,0,0,0.0
+Netherlands,2022,Juiste Antwoord21,2823,3,150,2823.0,1,1,0,1,0.02
+Netherlands,2022,Partij voor de Vrijheid,1501,17,150,1501.0,1,1,0,1,0.11333333333333333
+Netherlands,2022,Partij van de Arbeid,742,9,150,,0,0,0,0,0.0
+Netherlands,2022,Partij voor de Dieren,990,6,150,,0,0,0,0,0.0
+Netherlands,2022,Staatkundig Gereformeerde Partij,1251,3,150,,0,0,0,0,0.0
+Netherlands,2022,Socialistiese Partij,357,9,150,357.0,1,0,1,1,0.06
+Netherlands,2022,Volt Nederland,2735,3,150,,0,0,0,0,0.0
+Netherlands,2022,Volkspartij voor Vrijheid en Democratie,1409,34,150,,0,0,0,0,0.0
+Netherlands,2022,one seat,2288,1,150,,0,0,0,0,0.0
+Norway,2017,Det norske Arbeiderparti,104,49,169,,0,0,0,0,0.0
+Norway,2017,Fremskrittspartiet,351,27,169,351.0,1,1,0,1,0.15976331360946747
+Norway,2017,Høyre,1435,45,169,,0,0,0,0,0.0
+Norway,2017,Kristelig Folkeparti,1538,8,169,,0,0,0,0,0.0
+Norway,2017,Miljøpartiet De Grønne,2254,1,169,,0,0,0,0,0.0
+Norway,2017,Rød Valgallianse,1638,1,169,1638.0,1,0,1,1,0.005917159763313609
+Norway,2017,Sosialistisk Venstreparti,81,11,169,81.0,0,0,1,1,0.0
+Norway,2017,Senterpartiet,702,19,169,,0,0,0,0,0.0
+Norway,2017,Venstre,647,8,169,,0,0,0,0,0.0
+Norway,2018,Det norske Arbeiderparti,104,49,169,,0,0,0,0,0.0
+Norway,2018,Fremskrittspartiet,351,27,169,351.0,1,1,0,1,0.15976331360946747
+Norway,2018,Høyre,1435,45,169,,0,0,0,0,0.0
+Norway,2018,Kristelig Folkeparti,1538,8,169,,0,0,0,0,0.0
+Norway,2018,Miljøpartiet De Grønne,2254,1,169,,0,0,0,0,0.0
+Norway,2018,Rød Valgallianse,1638,1,169,1638.0,1,0,1,1,0.005917159763313609
+Norway,2018,Sosialistisk Venstreparti,81,11,169,81.0,0,0,1,1,0.0
+Norway,2018,Senterpartiet,702,19,169,,0,0,0,0,0.0
+Norway,2018,Venstre,647,8,169,,0,0,0,0,0.0
+Norway,2019,Det norske Arbeiderparti,104,49,169,,0,0,0,0,0.0
+Norway,2019,Fremskrittspartiet,351,27,169,351.0,1,1,0,1,0.15976331360946747
+Norway,2019,Høyre,1435,45,169,,0,0,0,0,0.0
+Norway,2019,Kristelig Folkeparti,1538,8,169,,0,0,0,0,0.0
+Norway,2019,Miljøpartiet De Grønne,2254,1,169,,0,0,0,0,0.0
+Norway,2019,Rød Valgallianse,1638,1,169,1638.0,1,0,1,1,0.005917159763313609
+Norway,2019,Sosialistisk Venstreparti,81,11,169,81.0,0,0,1,1,0.0
+Norway,2019,Senterpartiet,702,19,169,,0,0,0,0,0.0
+Norway,2019,Venstre,647,8,169,,0,0,0,0,0.0
+Norway,2020,Det norske Arbeiderparti,104,49,169,,0,0,0,0,0.0
+Norway,2020,Fremskrittspartiet,351,27,169,351.0,1,1,0,1,0.15976331360946747
+Norway,2020,Høyre,1435,45,169,,0,0,0,0,0.0
+Norway,2020,Kristelig Folkeparti,1538,8,169,,0,0,0,0,0.0
+Norway,2020,Miljøpartiet De Grønne,2254,1,169,,0,0,0,0,0.0
+Norway,2020,Rød Valgallianse,1638,1,169,1638.0,1,0,1,1,0.005917159763313609
+Norway,2020,Sosialistisk Venstreparti,81,11,169,81.0,0,0,1,1,0.0
+Norway,2020,Senterpartiet,702,19,169,,0,0,0,0,0.0
+Norway,2020,Venstre,647,8,169,,0,0,0,0,0.0
+Norway,2021,Det norske Arbeiderparti,104,48,169,,0,0,0,0,0.0
+Norway,2021,Fremskrittspartiet,351,21,169,351.0,1,1,0,1,0.1242603550295858
+Norway,2021,Høyre,1435,36,169,,0,0,0,0,0.0
+Norway,2021,Kristelig Folkeparti,1538,3,169,,0,0,0,0,0.0
+Norway,2021,Miljøpartiet De Grønne,2254,3,169,,0,0,0,0,0.0
+Norway,2021,Rød Valgallianse,1638,8,169,1638.0,1,0,1,1,0.047337278106508875
+Norway,2021,Sosialistisk Venstreparti,81,13,169,81.0,0,0,1,1,0.0
+Norway,2021,Senterpartiet,702,28,169,,0,0,0,0,0.0
+Norway,2021,Venstre,647,8,169,,0,0,0,0,0.0
+Norway,2021,one seat,474,1,169,,0,0,0,0,0.0
+New Zealand,2016,ACT New Zealand,617,1,121,,0,0,0,0,0.0
+New Zealand,2016,Green Party,1171,14,121,,0,0,0,0,0.0
+New Zealand,2016,Labour Party,878,32,121,,0,0,0,0,0.0
+New Zealand,2016,Māori Party,114,2,121,,0,0,0,0,0.0
+New Zealand,2016,National Party,997,60,121,,0,0,0,0,0.0
+New Zealand,2016,New Zealand First Party,891,11,121,,0,0,0,0,0.0
+New Zealand,2016,United Future New Zealand,1313,1,121,,0,0,0,0,0.0
+New Zealand,2017,ACT New Zealand,617,1,120,,0,0,0,0,0.0
+New Zealand,2017,Green Party,1171,8,120,,0,0,0,0,0.0
+New Zealand,2017,Labour Party,878,46,120,,0,0,0,0,0.0
+New Zealand,2017,National Party,997,56,120,,0,0,0,0,0.0
+New Zealand,2017,New Zealand First Party,891,9,120,,0,0,0,0,0.0
+New Zealand,2020,ACT New Zealand,617,10,120,,0,0,0,0,0.0
+New Zealand,2020,Green Party,1171,10,120,,0,0,0,0,0.0
+New Zealand,2020,Labour Party,878,65,120,,0,0,0,0,0.0
+New Zealand,2020,Māori Party,114,2,120,,0,0,0,0,0.0
+New Zealand,2020,National Party,997,33,120,,0,0,0,0,0.0
+New Zealand,2023,ACT New Zealand,617,10,120,,0,0,0,0,0.0
+New Zealand,2023,Green Party,1171,10,120,,0,0,0,0,0.0
+New Zealand,2023,Labour Party,878,65,120,,0,0,0,0,0.0
+New Zealand,2023,Māori Party,114,2,120,,0,0,0,0,0.0
+New Zealand,2023,National Party,997,33,120,,0,0,0,0,0.0
+Poland,2015,Kukiz'15,2600,42,460,2600.0,1,0,0,1,0.09130434782608696
+Poland,2015,Mniejszość niemiecka w Polsce,900,1,460,,0,0,0,0,0.0
+Poland,2015,Nowoczesna,2601,28,460,,0,0,0,0,0.0
+Poland,2015,Platforma Obywatelska,512,138,460,,0,0,0,0,0.0
+Poland,2015,Polskie Stronnictwo Ludowe,664,16,460,,0,0,0,0,0.0
+Poland,2015,Prawo i Sprawiedliwość,528,235,460,528.0,1,1,0,1,0.5108695652173914
+Poland,2017,Kukiz'15,2600,42,460,2600.0,1,0,0,1,0.09130434782608696
+Poland,2017,Mniejszość niemiecka w Polsce,900,1,460,,0,0,0,0,0.0
+Poland,2017,Nowoczesna,2601,28,460,,0,0,0,0,0.0
+Poland,2017,Platforma Obywatelska,512,138,460,,0,0,0,0,0.0
+Poland,2017,Polskie Stronnictwo Ludowe,664,16,460,,0,0,0,0,0.0
+Poland,2017,Prawo i Sprawiedliwość,528,235,460,528.0,1,1,0,1,0.5108695652173914
+Poland,2019,Demokratyczna | Wolności | Unia,1104,1,460,,0,0,0,0,0.0
+Poland,2019,Kukiz'15,2600,6,460,2600.0,1,0,0,1,0.013043478260869565
+Poland,2019,Koalicja Odnowy Rzeczypospolitej Wolność i Nadzieja KORWiN,2602,5,460,2602.0,0,1,0,1,0.0
+Poland,2019,Lewica Razem,2790,6,460,,0,0,0,0,0.0
+Poland,2019,Mniejszość niemiecka w Polsce,900,1,460,,0,0,0,0,0.0
+Poland,2019,Platforma Obywatelska,512,134,460,,0,0,0,0,0.0
+Poland,2019,Polskie Stronnictwo Ludowe,664,20,460,,0,0,0,0,0.0
+Poland,2019,Prawo i Sprawiedliwość,528,235,460,528.0,1,1,0,1,0.5108695652173914
+Poland,2019,Ruch Narodowy,2398,5,460,2398.0,0,1,0,1,0.0
+Poland,2019,Sojusz Lewicy Demokratycznej,629,24,460,,0,0,0,0,0.0
+Poland,2019,Wiosna,2740,19,460,,0,0,0,0,0.0
+Poland,2019,no party affiliation,1011,3,460,,0,0,0,0,0.0
+Poland,2019,one seat,2287,1,460,,0,0,0,0,0.0
+Portugal,2015,Bloco de Esquerda,557,19,230,557.0,0,0,1,1,0.0
+Portugal,2015,Centro Democrático e Social – Partido Popular,251,0,230,,0,0,0,0,0.0
+Portugal,2015,Coligação Democrático Unitária,1295,17,230,,0,0,0,0,0.0
+Portugal,2015,Partido pelos Animais e pela Natureza,1781,1,230,,0,0,0,0,0.0
+Portugal,2015,Partido Socialista,725,86,230,,0,0,0,0,0.0
+Portugal,2015,Partido Social Democrata,1273,107,230,,0,0,0,0,0.0
+Portugal,2015,Bloco de Esquerda,557,19,230,557.0,0,0,1,1,0.0
+Portugal,2015,Coligação Democrático Unitária,1295,17,230,,0,0,0,0,0.0
+Portugal,2015,Partido pelos Animais e pela Natureza,1781,1,230,,0,0,0,0,0.0
+Portugal,2015,Partido Socialista,725,86,230,,0,0,0,0,0.0
+Portugal,2015,Partido Social Democrata,1273,107,230,,0,0,0,0,0.0
+Portugal,2019,Bloco de Esquerda,557,19,230,557.0,0,0,1,1,0.0
+Portugal,2019,Centro Democrático e Social – Partido Popular,251,5,230,,0,0,0,0,0.0
+Portugal,2019,Coligação Democrático Unitária,1295,12,230,,0,0,0,0,0.0
+Portugal,2019,Chega,2789,1,230,2789.0,1,1,0,1,0.004347826086956522
+Portugal,2019,Iniciativa Liberal,2788,1,230,,0,0,0,0,0.0
+Portugal,2019,"Livre – Liberdade, Esquerda, Europa e Ecologia",2374,1,230,,0,0,0,0,0.0
+Portugal,2019,Partido pelos Animais e pela Natureza,1781,4,230,,0,0,0,0,0.0
+Portugal,2019,Partido Socialista,725,108,230,,0,0,0,0,0.0
+Portugal,2019,Partido Social Democrata,1273,79,230,,0,0,0,0,0.0
+Portugal,2022,Bloco de Esquerda,557,5,230,557.0,0,0,1,1,0.0
+Portugal,2022,Centro Democrático e Social – Partido Popular,251,3,230,,0,0,0,0,0.0
+Portugal,2022,Chega,2789,12,230,2789.0,1,1,0,1,0.05217391304347826
+Portugal,2022,Iniciativa Liberal,2788,8,230,,0,0,0,0,0.0
+Portugal,2022,"Livre – Liberdade, Esquerda, Europa e Ecologia",2374,1,230,,0,0,0,0,0.0
+Portugal,2022,Partido pelos Animais e pela Natureza,1781,1,230,,0,0,0,0,0.0
+Portugal,2022,Partido Comunista Português,514,6,230,514.0,0,0,1,1,0.0
+Portugal,2022,Partido Popular Monárquico,107,2,230,,0,0,0,0,0.0
+Portugal,2022,Partido Socialista,725,120,230,,0,0,0,0,0.0
+Portugal,2022,Partido Social Democrata,1273,72,230,,0,0,0,0,0.0
+Romania,2015,Partidul Democrat-Liberal,958,56,412,,0,0,0,0,0.0
+Romania,2015,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,22,412,,0,0,0,0,0.0
+Romania,2015,Partidul Naţional Liberal,1015,78,412,,0,0,0,0,0.0
+Romania,2015,Partidul Poporului – Dan Diaconescu,2130,47,412,2130.0,1,0,0,0,0.11407766990291263
+Romania,2015,Partidul Social Democrat,1120,160,412,,0,0,0,0,0.0
+Romania,2015,Partidul Umanist | Partidul Conservator,5,13,412,,0,0,0,0,0.0
+Romania,2015,Uniunea Democrată Maghiară din România,948,18,412,,0,0,0,0,0.0
+Romania,2015,Partidele minorităţilor etnice din România,425,18,412,,0,0,0,0,0.0
+Romania,2015,no party affiliation,761,0,412,,0,0,0,0,0.0
+Romania,2017,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,20,329,,0,0,0,0,0.0
+Romania,2017,Partidul Mișcarea Populară,2395,18,329,2395.0,1,0,0,0,0.0547112462006079
+Romania,2017,Partidul Naţional Liberal,1015,69,329,,0,0,0,0,0.0
+Romania,2017,Partidul Social Democrat,1120,154,329,,0,0,0,0,0.0
+Romania,2017,Uniunea Democrată Maghiară din România,948,21,329,,0,0,0,0,0.0
+Romania,2017,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,30,329,,0,0,0,0,0.0
+Romania,2017,Partidele minorităţilor etnice din România,425,17,329,,0,0,0,0,0.0
+Romania,2017,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,20,329,,0,0,0,0,0.0
+Romania,2017,Partidul Mișcarea Populară,2395,18,329,2395.0,1,0,0,0,0.0547112462006079
+Romania,2017,Partidul Naţional Liberal,1015,69,329,,0,0,0,0,0.0
+Romania,2017,Partidul Social Democrat,1120,154,329,,0,0,0,0,0.0
+Romania,2017,Uniunea Democrată Maghiară din România,948,21,329,,0,0,0,0,0.0
+Romania,2017,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,30,329,,0,0,0,0,0.0
+Romania,2017,Partidele minorităţilor etnice din România,425,17,329,,0,0,0,0,0.0
+Romania,2018,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,20,329,,0,0,0,0,0.0
+Romania,2018,Partidul Mișcarea Populară,2395,18,329,2395.0,1,0,0,0,0.0547112462006079
+Romania,2018,Partidul Naţional Liberal,1015,69,329,,0,0,0,0,0.0
+Romania,2018,Partidul Social Democrat,1120,154,329,,0,0,0,0,0.0
+Romania,2018,Uniunea Democrată Maghiară din România,948,21,329,,0,0,0,0,0.0
+Romania,2018,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,30,329,,0,0,0,0,0.0
+Romania,2018,Partidele minorităţilor etnice din România,425,17,329,,0,0,0,0,0.0
+Romania,2019,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,20,329,,0,0,0,0,0.0
+Romania,2019,Partidul Mișcarea Populară,2395,18,329,2395.0,1,0,0,0,0.0547112462006079
+Romania,2019,Partidul Naţional Liberal,1015,69,329,,0,0,0,0,0.0
+Romania,2019,Partidul Social Democrat,1120,154,329,,0,0,0,0,0.0
+Romania,2019,Uniunea Democrată Maghiară din România,948,21,329,,0,0,0,0,0.0
+Romania,2019,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,30,329,,0,0,0,0,0.0
+Romania,2019,Partidele minorităţilor etnice din România,425,17,329,,0,0,0,0,0.0
+Romania,2020,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,2647,20,329,,0,0,0,0,0.0
+Romania,2020,Partidul Mișcarea Populară,2395,18,329,2395.0,1,0,0,0,0.0547112462006079
+Romania,2020,Partidul Naţional Liberal,1015,69,329,,0,0,0,0,0.0
+Romania,2020,Partidul Social Democrat,1120,154,329,,0,0,0,0,0.0
+Romania,2020,Uniunea Democrată Maghiară din România,948,21,329,,0,0,0,0,0.0
+Romania,2020,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,30,329,,0,0,0,0,0.0
+Romania,2020,Partidele minorităţilor etnice din România,425,17,329,,0,0,0,0,0.0
+Romania,2020,Alianța pentru Unirea Românilor,2807,33,330,2807.0,1,1,0,1,0.1
+Romania,2020,Partidul Naţional Liberal,1015,93,330,,0,0,0,0,0.0
+Romania,2020,Partidul Social Democrat,1120,110,330,,0,0,0,0,0.0
+Romania,2020,Uniunea Democrată Maghiară din România,948,21,330,,0,0,0,0,0.0
+Romania,2020,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,55,330,,0,0,0,0,0.0
+Romania,2020,Partidele minorităţilor etnice din România,425,18,330,,0,0,0,0,0.0
+Romania,2021,Alianța pentru Unirea Românilor,2807,33,330,2807.0,1,1,0,1,0.1
+Romania,2021,Partidul Naţional Liberal,1015,93,330,,0,0,0,0,0.0
+Romania,2021,Partidul Social Democrat,1120,110,330,,0,0,0,0,0.0
+Romania,2021,Uniunea Democrată Maghiară din România,948,21,330,,0,0,0,0,0.0
+Romania,2021,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,55,330,,0,0,0,0,0.0
+Romania,2021,Partidele minorităţilor etnice din România,425,18,330,,0,0,0,0,0.0
+Romania,2023,Alianța pentru Unirea Românilor,2807,33,330,2807.0,1,1,0,1,0.1
+Romania,2023,Partidul Naţional Liberal,1015,93,330,,0,0,0,0,0.0
+Romania,2023,Partidul Social Democrat,1120,110,330,,0,0,0,0,0.0
+Romania,2023,Uniunea Democrată Maghiară din România,948,21,330,,0,0,0,0,0.0
+Romania,2023,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",2646,55,330,,0,0,0,0,0.0
+Romania,2023,Partidele minorităţilor etnice din România,425,18,330,,0,0,0,0,0.0
+Slovakia,2016,Ľudová strana Naše Slovensko,586,14,150,586.0,0,1,0,1,0.0
+Slovakia,2016,Most-Híd,1620,11,150,,0,0,0,0,0.0
+Slovakia,2016,Obyčajní ľudia a nezávislé osobnosti,1759,19,150,1759.0,1,0,0,0,0.12666666666666668
+Slovakia,2016,Sieť,2624,10,150,,0,0,0,0,0.0
+Slovakia,2016,Slovenská národná strana,1072,15,150,1072.0,1,1,0,1,0.1
+Slovakia,2016,Sme Rodina – Boris Kollár,2623,11,150,2623.0,1,1,0,1,0.07333333333333333
+Slovakia,2016,Sloboda a solidarita,1460,21,150,,0,0,0,0,0.0
+Slovakia,2016,Smer – sociálna demokracia,220,49,150,220.0,1,0,0,0,0.32666666666666666
+Slovakia,2016,Ľudová strana Naše Slovensko,586,14,150,586.0,0,1,0,1,0.0
+Slovakia,2016,Most-Híd,1620,11,150,,0,0,0,0,0.0
+Slovakia,2016,Obyčajní ľudia a nezávislé osobnosti,1759,19,150,1759.0,1,0,0,0,0.12666666666666668
+Slovakia,2016,Sieť,2624,10,150,,0,0,0,0,0.0
+Slovakia,2016,Slovenská národná strana,1072,15,150,1072.0,1,1,0,1,0.1
+Slovakia,2016,Sme Rodina – Boris Kollár,2623,11,150,2623.0,1,1,0,1,0.07333333333333333
+Slovakia,2016,Sloboda a solidarita,1460,21,150,,0,0,0,0,0.0
+Slovakia,2016,Smer – sociálna demokracia,220,49,150,220.0,1,0,0,0,0.32666666666666666
+Slovakia,2018,Ľudová strana Naše Slovensko,586,14,150,586.0,0,1,0,1,0.0
+Slovakia,2018,Most-Híd,1620,11,150,,0,0,0,0,0.0
+Slovakia,2018,Obyčajní ľudia a nezávislé osobnosti,1759,19,150,1759.0,1,0,0,0,0.12666666666666668
+Slovakia,2018,Sieť,2624,10,150,,0,0,0,0,0.0
+Slovakia,2018,Slovenská národná strana,1072,15,150,1072.0,1,1,0,1,0.1
+Slovakia,2018,Sme Rodina – Boris Kollár,2623,11,150,2623.0,1,1,0,1,0.07333333333333333
+Slovakia,2018,Sloboda a solidarita,1460,21,150,,0,0,0,0,0.0
+Slovakia,2018,Smer – sociálna demokracia,220,49,150,220.0,1,0,0,0,0.32666666666666666
+Slovakia,2020,Ľudová strana Naše Slovensko,586,17,150,586.0,0,1,0,1,0.0
+Slovakia,2020,Obyčajní ľudia a nezávislé osobnosti,1759,53,150,1759.0,1,0,0,0,0.35333333333333333
+Slovakia,2020,Sme Rodina – Boris Kollár,2623,17,150,2623.0,1,1,0,1,0.11333333333333333
+Slovakia,2020,Sloboda a solidarita,1460,13,150,,0,0,0,0,0.0
+Slovakia,2020,Smer – sociálna demokracia,220,38,150,220.0,1,0,0,0,0.25333333333333335
+Slovakia,2020,Za ľudí,2796,12,150,,0,0,0,0,0.0
+Slovakia,2021,Ľudová strana Naše Slovensko,586,17,150,586.0,0,1,0,1,0.0
+Slovakia,2021,Obyčajní ľudia a nezávislé osobnosti,1759,53,150,1759.0,1,0,0,0,0.35333333333333333
+Slovakia,2021,Sme Rodina – Boris Kollár,2623,17,150,2623.0,1,1,0,1,0.11333333333333333
+Slovakia,2021,Sloboda a solidarita,1460,13,150,,0,0,0,0,0.0
+Slovakia,2021,Smer – sociálna demokracia,220,38,150,220.0,1,0,0,0,0.25333333333333335
+Slovakia,2021,Za ľudí,2796,12,150,,0,0,0,0,0.0
+Slovakia,2022,Ľudová strana Naše Slovensko,586,17,150,586.0,0,1,0,1,0.0
+Slovakia,2022,Obyčajní ľudia a nezávislé osobnosti,1759,53,150,1759.0,1,0,0,0,0.35333333333333333
+Slovakia,2022,Sme Rodina – Boris Kollár,2623,17,150,2623.0,1,1,0,1,0.11333333333333333
+Slovakia,2022,Sloboda a solidarita,1460,13,150,,0,0,0,0,0.0
+Slovakia,2022,Smer – sociálna demokracia,220,38,150,220.0,1,0,0,0,0.25333333333333335
+Slovakia,2022,Za ľudí,2796,12,150,,0,0,0,0,0.0
+Slovakia,2022,no party affiliation,1359,0,150,,0,0,0,0,0.0
+Slovakia,2023,Ľudová strana Naše Slovensko,586,17,150,586.0,0,1,0,1,0.0
+Slovakia,2023,Obyčajní ľudia a nezávislé osobnosti,1759,53,150,1759.0,1,0,0,0,0.35333333333333333
+Slovakia,2023,Sme Rodina – Boris Kollár,2623,17,150,2623.0,1,1,0,1,0.11333333333333333
+Slovakia,2023,Sloboda a solidarita,1460,13,150,,0,0,0,0,0.0
+Slovakia,2023,Smer – sociálna demokracia,220,38,150,220.0,1,0,0,0,0.25333333333333335
+Slovakia,2023,Za ľudí,2796,12,150,,0,0,0,0,0.0
+Slovakia,2023,no party affiliation,1359,0,150,,0,0,0,0,0.0
+Slovenia,2018,Demokratična stranka upokojencev Slovenije,1587,5,90,,0,0,0,0,0.0
+Slovenia,2018,Italijanska narodna skupnost,199,1,90,,0,0,0,0,0.0
+Slovenia,2018,Levica,2670,9,90,2670.0,1,0,1,1,0.1
+Slovenia,2018,Lista Marjana Šarca,2668,13,90,2668.0,1,0,0,0,0.14444444444444443
+Slovenia,2018,Madžarska narodna skupnost,65,1,90,,0,0,0,0,0.0
+Slovenia,2018,Nova Slovenija – Krščanska ljudska stranka,1047,7,90,1047.0,1,1,0,0,0.07777777777777778
+Slovenia,2018,Slovenska demokratska stranka,179,25,90,179.0,1,1,0,0,0.2777777777777778
+Slovenia,2018,Stranka modernega,2333,10,90,,0,0,0,0,0.0
+Slovenia,2018,Slovenska nacionalna stranka,981,4,90,981.0,1,1,0,1,0.044444444444444446
+Slovenia,2018,Združena lista – Socialni demokrati,706,10,90,706.0,1,0,1,1,0.1111111111111111
+Slovenia,2018,Zavezništvo Alenke Bratušek,2337,5,90,,0,0,0,0,0.0
+Slovenia,2020,Demokratična stranka upokojencev Slovenije,1587,5,90,,0,0,0,0,0.0
+Slovenia,2020,Italijanska narodna skupnost,199,1,90,,0,0,0,0,0.0
+Slovenia,2020,Levica,2670,9,90,2670.0,1,0,1,1,0.1
+Slovenia,2020,Lista Marjana Šarca,2668,13,90,2668.0,1,0,0,0,0.14444444444444443
+Slovenia,2020,Madžarska narodna skupnost,65,1,90,,0,0,0,0,0.0
+Slovenia,2020,Nova Slovenija – Krščanska ljudska stranka,1047,7,90,1047.0,1,1,0,0,0.07777777777777778
+Slovenia,2020,Slovenska demokratska stranka,179,25,90,179.0,1,1,0,0,0.2777777777777778
+Slovenia,2020,Stranka modernega,2333,10,90,,0,0,0,0,0.0
+Slovenia,2020,Slovenska nacionalna stranka,981,4,90,981.0,1,1,0,1,0.044444444444444446
+Slovenia,2020,Združena lista – Socialni demokrati,706,10,90,706.0,1,0,1,1,0.1111111111111111
+Slovenia,2020,Zavezništvo Alenke Bratušek,2337,5,90,,0,0,0,0,0.0
+Slovenia,2020,Demokratična stranka upokojencev Slovenije,1587,5,90,,0,0,0,0,0.0
+Slovenia,2020,Italijanska narodna skupnost,199,1,90,,0,0,0,0,0.0
+Slovenia,2020,Levica,2670,9,90,2670.0,1,0,1,1,0.1
+Slovenia,2020,Lista Marjana Šarca,2668,13,90,2668.0,1,0,0,0,0.14444444444444443
+Slovenia,2020,Madžarska narodna skupnost,65,1,90,,0,0,0,0,0.0
+Slovenia,2020,Nova Slovenija – Krščanska ljudska stranka,1047,7,90,1047.0,1,1,0,0,0.07777777777777778
+Slovenia,2020,Slovenska demokratska stranka,179,25,90,179.0,1,1,0,0,0.2777777777777778
+Slovenia,2020,Stranka modernega,2333,10,90,,0,0,0,0,0.0
+Slovenia,2020,Slovenska nacionalna stranka,981,4,90,981.0,1,1,0,1,0.044444444444444446
+Slovenia,2020,Združena lista – Socialni demokrati,706,10,90,706.0,1,0,1,1,0.1111111111111111
+Slovenia,2020,Zavezništvo Alenke Bratušek,2337,5,90,,0,0,0,0,0.0
+Slovenia,2022,Gibanje Svoboda,2856,41,90,,0,0,0,0,0.0
+Slovenia,2022,Italijanska narodna skupnost,199,1,90,,0,0,0,0,0.0
+Slovenia,2022,Levica,2670,5,90,2670.0,1,0,1,1,0.05555555555555555
+Slovenia,2022,Madžarska narodna skupnost,65,1,90,,0,0,0,0,0.0
+Slovenia,2022,Nova Slovenija – Krščanska ljudska stranka,1047,8,90,1047.0,1,1,0,0,0.08888888888888889
+Slovenia,2022,Slovenska demokratska stranka,179,27,90,179.0,1,1,0,0,0.3
+Slovenia,2022,Združena lista – Socialni demokrati,706,7,90,706.0,1,0,1,1,0.07777777777777778
+Sweden,2018,Centerpartiet,1461,31,349,,0,0,0,0,0.0
+Sweden,2018,Folkpartiet,892,20,349,,0,0,0,0,0.0
+Sweden,2018,Kristdemokraterna,282,22,349,,0,0,0,0,0.0
+Sweden,2018,Moderaterna,657,70,349,,0,0,0,0,0.0
+Sweden,2018,Miljöpartiet de Gröna,1154,16,349,,0,0,0,0,0.0
+Sweden,2018,Socialdemokraterna,904,100,349,,0,0,0,0,0.0
+Sweden,2018,Sverigedemokraterna,1546,62,349,1546.0,1,1,0,1,0.17765042979942694
+Sweden,2018,Vänsterpartiet (kommunisterna),882,28,349,882.0,0,0,1,1,0.0
+Sweden,2019,Centerpartiet,1461,31,349,,0,0,0,0,0.0
+Sweden,2019,Folkpartiet,892,20,349,,0,0,0,0,0.0
+Sweden,2019,Kristdemokraterna,282,22,349,,0,0,0,0,0.0
+Sweden,2019,Moderaterna,657,70,349,,0,0,0,0,0.0
+Sweden,2019,Miljöpartiet de Gröna,1154,16,349,,0,0,0,0,0.0
+Sweden,2019,Socialdemokraterna,904,100,349,,0,0,0,0,0.0
+Sweden,2019,Sverigedemokraterna,1546,62,349,1546.0,1,1,0,1,0.17765042979942694
+Sweden,2019,Vänsterpartiet (kommunisterna),882,28,349,882.0,0,0,1,1,0.0
+Sweden,2021,Centerpartiet,1461,31,349,,0,0,0,0,0.0
+Sweden,2021,Folkpartiet,892,20,349,,0,0,0,0,0.0
+Sweden,2021,Kristdemokraterna,282,22,349,,0,0,0,0,0.0
+Sweden,2021,Moderaterna,657,70,349,,0,0,0,0,0.0
+Sweden,2021,Miljöpartiet de Gröna,1154,16,349,,0,0,0,0,0.0
+Sweden,2021,Socialdemokraterna,904,100,349,,0,0,0,0,0.0
+Sweden,2021,Sverigedemokraterna,1546,62,349,1546.0,1,1,0,1,0.17765042979942694
+Sweden,2021,Vänsterpartiet (kommunisterna),882,28,349,882.0,0,0,1,1,0.0
+Sweden,2021,Centerpartiet,1461,31,349,,0,0,0,0,0.0
+Sweden,2021,Folkpartiet,892,20,349,,0,0,0,0,0.0
+Sweden,2021,Kristdemokraterna,282,22,349,,0,0,0,0,0.0
+Sweden,2021,Moderaterna,657,70,349,,0,0,0,0,0.0
+Sweden,2021,Miljöpartiet de Gröna,1154,16,349,,0,0,0,0,0.0
+Sweden,2021,Socialdemokraterna,904,100,349,,0,0,0,0,0.0
+Sweden,2021,Sverigedemokraterna,1546,62,349,1546.0,1,1,0,1,0.17765042979942694
+Sweden,2021,Vänsterpartiet (kommunisterna),882,28,349,882.0,0,0,1,1,0.0
+Sweden,2022,Centerpartiet,1461,24,349,,0,0,0,0,0.0
+Sweden,2022,Folkpartiet,892,16,349,,0,0,0,0,0.0
+Sweden,2022,Kristdemokraterna,282,19,349,,0,0,0,0,0.0
+Sweden,2022,Moderaterna,657,68,349,,0,0,0,0,0.0
+Sweden,2022,Miljöpartiet de Gröna,1154,18,349,,0,0,0,0,0.0
+Sweden,2022,Socialdemokraterna,904,107,349,,0,0,0,0,0.0
+Sweden,2022,Sverigedemokraterna,1546,73,349,1546.0,1,1,0,1,0.20916905444126074
+Sweden,2022,Vänsterpartiet (kommunisterna),882,24,349,882.0,0,0,1,1,0.0
+Turkey,2015,Adalet ve Kalkınma Partisi,901,258,550,,0,0,0,0,0.0
+Turkey,2015,Halkların Demokratik Partisi,2572,80,550,,0,0,0,0,0.0
+Turkey,2015,Milliyetçi Hareket Partisi,408,80,550,,0,0,0,0,0.0
+Turkey,2015,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,507,132,550,,0,0,0,0,0.0
+Turkey,2015,Adalet ve Kalkınma Partisi,901,317,550,,0,0,0,0,0.0
+Turkey,2015,Halkların Demokratik Partisi,2572,59,550,,0,0,0,0,0.0
+Turkey,2015,Milliyetçi Hareket Partisi,408,40,550,,0,0,0,0,0.0
+Turkey,2015,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,507,134,550,,0,0,0,0,0.0
+Turkey,2016,Adalet ve Kalkınma Partisi,901,317,550,,0,0,0,0,0.0
+Turkey,2016,Halkların Demokratik Partisi,2572,59,550,,0,0,0,0,0.0
+Turkey,2016,Milliyetçi Hareket Partisi,408,40,550,,0,0,0,0,0.0
+Turkey,2016,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,507,134,550,,0,0,0,0,0.0
+Turkey,2018,Adalet ve Kalkınma Partisi,901,295,600,,0,0,0,0,0.0
+Turkey,2018,Halkların Demokratik Partisi,2572,67,600,,0,0,0,0,0.0
+Turkey,2018,İyi Parti,2702,43,600,,0,0,0,0,0.0
+Turkey,2018,Milliyetçi Hareket Partisi,408,49,600,,0,0,0,0,0.0
+Turkey,2018,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,507,146,600,,0,0,0,0,0.0
+Turkey,2023,Adalet ve Kalkınma Partisi,901,268,600,,0,0,0,0,0.0
+Turkey,2023,İyi Parti,2702,43,600,,0,0,0,0,0.0
+Turkey,2023,Milliyetçi Hareket Partisi,408,50,600,,0,0,0,0,0.0
+Turkey,2023,(Yeniden) Refah (Fazilet) Partisi,1122,5,600,,0,0,0,0,0.0
+Turkey,2023,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,507,169,600,,0,0,0,0,0.0
+Turkey,2023,Türkiye İşçi Partisi,2896,4,600,,0,0,0,0,0.0
+Turkey,2023,Yeşiller ve Sol Gelecek Partisi,2895,61,600,,0,0,0,0,0.0
