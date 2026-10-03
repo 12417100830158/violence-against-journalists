@@ -1,11 +1,9 @@
-# m4k1
-
-Group project modelling physical violence against journalists in Europe using Zero-Inflated Negative Binomial (ZINB) regression.
+This project aims to build a model to analyse the relationship between populism and violence against jounralist by modelling physical violence in Europe using Zero-Inflated Negative Binomial (ZINB) regression.
 
 ## Project Structure
 - **MODEL.ipynb** — main notebook: data cleaning, merging, EDA, and all models
 - **DATA/** — raw and processed datasets (see below)
-- **Drafts/** — Failed analyses & earlier draft versions of the notebook
+- **final_paper.pdf** - write up of the research paper
 
 ## Data Sources
 - `DATA/MMF/` — Mapping Media Freedom: physical incident counts per country-year (outcome variable)
@@ -33,7 +31,6 @@ Group project modelling physical violence against journalists in Europe using Ze
 - **EDA** — outcome distribution diagnostics confirming overdispersion and zero-inflation justify ZINB
 
 ## Models
-
 All models are ZINB, estimated via BFGS MLE; continuous predictors are z-scored; evaluated on 70/30 hold-out + 5-fold CV. Coefficients reported as IRRs (exp(β)).
 
 - **Model 1** — baseline controls: military exp., court independence, poverty, judiciary attacks
@@ -41,3 +38,25 @@ All models are ZINB, estimated via BFGS MLE; continuous predictors are z-scored;
 - **Model 3** — Model 2 + populism × media capture interaction (tests RQ2: moderation by media capture)
 - **Model 4** — Model 2 + gender power distribution (gender robustness check)
 - **Model 5** — Model 3 split by journalist gender (male vs. female victim comparison)
+
+## Paper executive summary
+This project explores the relationship between populist governance, media capture, and physical
+violence against journalists in Europe. Using the Mapping Media Freedom dataset’s incident
+data amongst literature-informed variables, we create five Zero-Inflated Negative Binomial
+predictive models to estimate counts of physical violence against journalists. Control variables
+includ poverty, military spending, and judicial independence, while other models use an altered
+version of Reporters Without Borders’ media-capture index, seat-weighted populist presence
+from the PopuList and ParlGov datasets, as well as gender composition of journalist victims
+and the leading political cabinet. A feminist critical lens was applied to incorporate gender into
+the analysis, drawing on gender data available in existing datasets, while six semi-structured
+interviews provided additional qualitative insights.
+Key Findings include:
+- A one-standard-deviation increase in the populist share of a European government is associated with nearly fifty percent more physical violence counts against journalists.
+- Adding populism variables improves the models’ fit to seen data, but not unseen, making it unreliable for predicting.
+- Government attacks on the judiciary only become significant after including populism, which links populist rule to general democratic failure
+- Media capture, weighted populism, and gender composition add minimal predictive power, but instead add model explainability
+- Weighted populism and its interaction with media capture sharpen the significance of institutional predictors and link populist governance and attacks on the judiciary to higher rates of violence against journalists.
+- Interviews concur that political polarisation and outlet independence are generally more significant than the gender of a journalist.
+- Partial populist presence in government is sufficient to correlate with higher rates of physical violence against journalists.
+- Populism and government attacks on the judiciary pose a positive feedback loop with a compounding effect on journalist safety.
+- Adding gender composition of the cabinet and the attacked journalists does not improve the prediction.
